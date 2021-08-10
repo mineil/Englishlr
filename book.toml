@@ -1,0 +1,19 @@
+[book]
+authors = ["zzy"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "Word List"
+
+[output.html]
+default-theme = "Ayu"
+preferred-dark-theme = "Ayu"
+no-section-label = true
+git-repository-url = "https://github.com/mineil/notes"
+git-repository-icon = "fa-github"
+
+[output.html.print]
+enable = true
+
+[output.html.search]
+enable = true
