@@ -9,7 +9,7 @@ title = "Word List"
 default-theme = "Ayu"
 preferred-dark-theme = "Ayu"
 no-section-label = true
-git-repository-url = "https://github.com/mineil/notes"
+git-repository-url = "https://mineil.github.io/Englishlr/"
 git-repository-icon = "fa-github"
 
 [output.html.print]
