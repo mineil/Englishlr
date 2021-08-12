@@ -1,4 +1,4 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)～10
+- [Chapter 1～10](./chapter_1.md)
 
