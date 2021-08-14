@@ -75,7 +75,7 @@ diffuse		vt.扩散；传播；宣泄   a.冗长的；四散的，弥漫的
 
 negligible 		a.可以忽略的，微不足道的
 
-segregate 		vt.隔离，分开
+segregate 		vt.隔离，分开    separate 		vt.使分离，使分开；分开，分居；隔开
 
 precedent 		n.先例，范例，惯例
 
@@ -94,4 +94,36 @@ plausible 		a.合乎情理的，似乎可信的
 nucleus  	n.核，原子核；核心
 
 ambiguous 		a.模棱两可的
+
+## list4
+
+lest 		conj.唯恐，免得
+
+grieve 		vt.使悲伤，使伤心
+
+contradict		v.反驳；同...矛盾，同...抵触
+
+intelligible		a.可理解的，易领悟的；清楚的
+
+portrait		n.肖像，画像
+
+attribute 		n.属性，品质，特征		vt.把...归于；认为...是...所为
+
+underestimate 		n.低估；轻视    vt.低估
+
+tremendous		a.巨大的，极大的
+
+deprive 		vt.夺去，使丧失；使不能享有
+
+simultaneous 		a.同时的，同时存在的
+
+specimen		n.标本，样本
+
+headquarters		n.司令部；总部
+
+alert	 	a.警惕的；机灵的	 n.警报，警戒
+
+utter 		vt.说，发出		a.彻底的，完全的
+
+
 
