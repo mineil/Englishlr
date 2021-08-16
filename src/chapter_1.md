@@ -127,3 +127,57 @@ utter 		vt.说，发出		a.彻底的，完全的
 
 
 
+## list5
+
+dedicate 		vt.奉献；把...用在 （同：devote）
+
+merchant			n.商人，零售商
+
+prosperous 		a.繁荣的，兴旺的
+
+veteran 		n.老手；老兵	a.经验丰富的
+
+monarch		n.君主，帝王
+
+thrive		vi.兴旺，繁荣
+
+synthesis		n.综合，合成		（synthesize v.综合，合成）
+
+deteriorate		vi.恶化，变坏
+
+confer 		vi.商谈，商议		vt.授予，赋予
+
+miracle		n.奇迹，令人惊奇的事
+
+limp 		a.柔软的，易曲的，无力的	n./vi.蹒跚，跛腿
+
+consent		vi./n.同意；赞成；答应		
+
+mischief		n.损伤，伤害，危害；恶作剧，胡闹
+
+reptile		n.爬行动物
+
+tuition		n.学费；教学，讲授
+
+defendant		n.被告		plaintiff		n.原告
+
+edible		a.可以吃的，可食用的
+
+supervise		v.管理，监管		(同：superintend、administer)
+
+likewise		ad.同样的，照样的；又，也，而且
+
+obsolete		a.已经废弃的，过时的
+
+indulge		vt.沉溺，纵容自己，肆意从事；允许某人延期付款
+
+funeral 		n.丧葬，葬礼
+
+mobilise		vt.动员；调动（资源）
+
+combat		v./n战斗，搏斗，格斗；防止，减轻
+
+embryo		n.胚，胚胎；事物的萌芽期
+
+herald		n.预告，先兆；传令官 		vt.预示...的来临
+
