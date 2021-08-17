@@ -181,3 +181,38 @@ embryo		n.胚，胚胎；事物的萌芽期
 
 herald		n.预告，先兆；传令官 		vt.预示...的来临
 
+## list6
+
+tragedy		n.悲剧；惨事，灾难
+
+obligate		v.强迫		obiligation		n.责任，义务
+
+decline		vi.下降，下倾，下垂；拒绝，谢绝		n.下降；衰退，衰落，斜面，倾斜
+
+incline		vi.倾斜；倾向 	vt.使倾斜，使倾向		n.斜面
+
+extract		vt.拔出，抽出；摘录		n.提炼物，精华
+
+previous		a.早先的，在前的		ad.在...之前 （precious adj.宝贵的，珍贵的）
+
+plateau		n.高原；稳定期，停滞期		 (basin n.盆地	plain	n.平原)
+
+patron		n.赞助人，保护人
+
+majesty		n.陛下；雄伟，壮丽
+
+repertoire		n.常备剧目，全部节目
+
+compensate		v.补偿，赔偿，弥补
+
+fragile		a.易碎的，易损的；脆弱的，易受到伤害的
+
+negotiate		vt.谈判，交涉，商议
+
+nominate		vt.提名；任命
+
+definite		a.明确的，肯定的；限定的
+
+subscribe			vt.订购，订阅；预定；赞成
+
+discourse		n.演讲，谈话，论文	vi.演讲，谈话
