@@ -216,3 +216,44 @@ definite		a.明确的，肯定的；限定的
 subscribe			vt.订购，订阅；预定；赞成
 
 discourse		n.演讲，谈话，论文	vi.演讲，谈话
+
+## list7
+
+permeate			vi.扩散，弥漫；渗透，渗入
+
+narrative		n.叙述；记叙文	a.叙述的；有故事性的	(narrate v.叙述)
+
+vulgar		a.粗野的，下流的；庸俗的，粗俗的；普通的，通俗的
+
+farewell		int.再会，别了
+
+immune 		a.免疫的，有免疫力的；不受影响的；免除的，豁免的
+
+slender		a.修长的，苗条的；微小的，微薄的
+
+linger		vi.逗留，闲逛，徘徊；磨蹭，拖延
+
+rein		n.缰绳；控制
+
+suspend			v.吊，悬挂；推迟，暂停
+
+exert		vt.尽（力）；施加（压力等）
+
+multiple		a.多样的，多重的 n.倍数	(multiply v.使相乘)
+
+heir 		n.继承人
+
+intervene		vi.插手，干预，调停；插入，介入	(intervention	 n.干涉，介入)
+
+vaccum		n.真空；真空吸尘器	v.收集
+
+literacy 		n.识字，有文化；读写能力  (literate a.有文化的	literary  a.文学的 	literal a.文字的)
+
+sensitive		a.敏感的，灵敏的
+
+domestic 			a.家的，家庭的；本国的；驯养的；家用的
+
+speculate		v.推测，推断；投机
+
+persecute		vt.迫害
+
