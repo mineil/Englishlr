@@ -257,3 +257,49 @@ speculate		v.推测，推断；投机
 
 persecute		vt.迫害
 
+## list8
+
+extinguish		vt.扑灭，熄灭
+
+revenge			n.报复，报仇 	vt.替……报仇 （avenge vt.为……报仇）
+
+engine		n.发动机，引擎；火车头
+
+clutch		vt.抓住，掌握	n.离合器
+
+temperament		n.性情；气质 	(dispassion n.脾气，性格)
+
+pastime		n.消遣，娱乐
+
+compartment		n.卧车包房，隔间；分隔的房间
+
+spectrum		n.谱，光谱，频谱；范围，幅度
+
+symmetry 	n.对称；均匀，整齐 (uniformity 一致，均匀	asymmetry 不对称)
+
+embassy		n.大使馆
+
+distill		n.蒸馏；吸取；提炼
+
+drawback			n.欠缺，缺点
+
+psychiatry 		n.精神病学；精神病治疗法
+
+compulsory		a.强制的，义务的；必修的
+
+casuality		n.伤亡人员；受害人 	(casual 	偶然的)
+
+blunder			vi.踉跄地走；乱闯；（因粗心）犯错	n.错误
+
+incentive		n.刺激；鼓励；动机
+
+spacious		a.宽广的；广阔的
+
+vessel 		n.容器，器皿;船,舰;管，血管
+
+representative		n.代理，代理人	a.典型的，有代表性的；由代表组成的
+
+detain		vt.拘留，扣留；耽搁
+
+prototype		n.原型，蓝本
+
