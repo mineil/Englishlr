@@ -303,3 +303,31 @@ detain		vt.拘留，扣留；耽搁
 
 prototype		n.原型，蓝本
 
+## list9
+
+expedition	n.远征队，探险队
+
+invalid		n.病人	a.有病的；伤残的；无效的，作废的；无根据的，站不住脚的
+
+ intimate		a.亲密的；密切的	幽静舒适的
+
+vulnerable		a.易受攻击的
+
+illusion		n.幻想中的事务，错误的观念；错觉，幻觉，假象
+
+obscure		vt.使暗，使不明显	 a.暗的；朦胧的；模糊的；晦涩的；鲜为人知的
+
+shatter		vt.使...粉碎;使散开；使破灭；使震惊；n.碎片；粉碎
+
+profound		a.深度，深刻的，意义深远的；渊博的，造诣高的
+
+qualitative		a.性质上的，定性的
+
+reservoir	 	n.水库，蓄水池
+
+retention	 	n.保留，保持
+
+lavatory			n.厕所
+
+resemble		vt.像，类似
+
