@@ -331,3 +331,37 @@ lavatory			n.厕所
 
 resemble		vt.像，类似
 
+## list10
+
+balcony 		n.阳台；楼厅
+
+glamour		n.魅力，诱惑力
+
+allocate		v.分配，分派
+
+stern		a.严厉的，苛刻的；坚决的，坚定的
+
+demonstrate		vt.论证，证实；展示，说明
+
+quantitative		a.数量的，定量的
+
+cassette		n.盒子
+
+erroneous		a.错误的，不正确的
+
+coarse		a.粗糙的，粗劣的
+
+pilgrim		n.朝圣者，香客
+
+humid		a.湿的，湿气重的
+
+manufacture		vt.制造，加工	n.制造，制造业；产品
+
+detach		vt.分开，拆开
+
+insult		vt./n.侮辱，凌辱
+
+vein		n.静脉，血管；纹理，纹路
+
+offspring		n.子孙后代；结果，产物
+
