@@ -1,4 +1,4 @@
-# Chapter 1～10
+# List 1～10
 - [Chapter 1～10](#chapter-110)
   - [list1](#list1)
   - [list2](#list2)
@@ -38,7 +38,7 @@ propaganda		n.宣传
 
 prescribe		vt.指示，规定；开处方，开药
 
-## list2
+##  list2
 
 eliminate			vt.消除，排除
 
