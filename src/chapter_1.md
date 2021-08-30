@@ -1,15 +1,15 @@
 # List 1～10
-- [Chapter 1～10](#chapter-110)
-  - [list1](#list1)
-  - [list2](#list2)
-  - [list3](#list3)
-  - [list4](#list4)
-  - [list5](#list5)
-  - [list6](#list6)
-  - [list7](#list7)
-  - [list8](#list8)
-  - [list9](#list9)
-  - [list10](#list10)
+- [list1](#list1)
+- [list2](#list2)
+- [list3](#list3)
+- [list4](#list4)
+- [list5](#list5)
+- [list6](#list6)
+- [list7](#list7)
+- [list8](#list8)
+- [list9](#list9)
+- [list10](#list10)
+
 ## list1
 
 discipline 		 n.纪律、规定；学科；训练；自制力
