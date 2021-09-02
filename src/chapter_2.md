@@ -87,3 +87,52 @@ surender		v.投降；放弃
 imperative		a.必要的；紧急的，极重要的
 
 vaccine		n.疫苗
+
+## list13
+
+massarce		vt.大规模屠杀，残杀；彻底击败，惨败
+
+intricate		a.错中复杂的，复杂精细的
+
+futile		a.无效的，无用的，无意义的；琐碎的
+
+fascinate		vt.迷住，强烈吸引
+
+property		n.财产，资产，所有物；性质，特性
+
+staple		n.订书钉，u型钉；主食，主要产品；vt.用订书钉订	a.主要的，经常需要的
+
+domain		n.领域，范围
+
+opponent		n.对手，反对者，敌手
+
+retrospect 		n.回顾，回想
+
+smuggle		vt.走私，偷运
+
+shrewd		a.机灵的，敏锐的，精明的
+
+soar		vi.猛增，剧增；高飞，翱翔
+
+torment 		n.痛苦，折磨；令人痛苦的东西，折磨者	vt.折磨，使痛苦
+
+architecture		n.建筑，建筑学，结构
+
+cognitive		a.认知的，认识的，有感知能力的
+
+barrel		n.桶；枪管，炮管
+
+fertilizer 			n.肥料
+
+exempt		vt.使免除 	a.被豁免的
+
+decent		a.体面的，像样的
+
+provoke		vt.挑衅，激怒，惹怒
+
+originate		vi.起源，产生；首创，创造
+
+hinge 		n.合页，脚链
+
+slack		a.懈怠的，懒散的；松弛的，不紧张的；萧条的		n.淡季
+
