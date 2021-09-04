@@ -2,6 +2,8 @@
 
 - [list11](#list11)
 - [list12](#list12)
+- [list13](#list13)
+- [list14](#list14)
 ## list11
 
 siren 		n.警报声，报警器
@@ -135,4 +137,38 @@ originate		vi.起源，产生；首创，创造
 hinge 		n.合页，脚链
 
 slack		a.懈怠的，懒散的；松弛的，不紧张的；萧条的		n.淡季
+
+## list14
+
+genuine		a.真正的，名副其实的
+
+costume		n.戏服，服饰
+
+timid		a.胆怯的，怯懦的
+
+envisage		vt.展望，想象；正规
+
+authentic		a.真正的，真实的；可靠的
+
+ventilate		vi.使通风，唤气；给…装通风设备
+
+provided		conj.假如，只要
+
+designate		vt.指明，指定
+
+amend		vt.修改，改正
+
+private		n.海盗，盗版	vt.盗版
+
+diminish		v.缩小，减少，递减
+
+tempt		vt.诱惑，引诱
+
+saucer		n.茶托，碟子
+
+prevail		vi.取胜，占优势；流行，盛行
+
+nuisance		n.讨厌的人；麻烦事；妨害行为
+
+tramp		n.流浪者	v.步行，跋涉
 
