@@ -4,6 +4,7 @@
 - [list12](#list12)
 - [list13](#list13)
 - [list14](#list14)
+- [list15](#list15)
 ## list11
 
 siren 		n.警报声，报警器
@@ -146,7 +147,7 @@ costume		n.戏服，服饰
 
 timid		a.胆怯的，怯懦的
 
-envisage		vt.展望，想象；正规
+envisage		vt.展望，想象；正视
 
 authentic		a.真正的，真实的；可靠的
 
@@ -158,7 +159,7 @@ designate		vt.指明，指定
 
 amend		vt.修改，改正
 
-private		n.海盗，盗版	vt.盗版
+pirate		n.海盗，盗版	vt.盗版
 
 diminish		v.缩小，减少，递减
 
@@ -168,7 +169,48 @@ saucer		n.茶托，碟子
 
 prevail		vi.取胜，占优势；流行，盛行
 
-nuisance		n.讨厌的人；麻烦事；妨害行为
+nuisance		n.讨厌的人；麻烦事；妨害行为(近 ：plague)
 
 tramp		n.流浪者	v.步行，跋涉
 
+## list15
+
+erosion		n.腐蚀，磨损；削弱，减少（corrosion	侵蚀）
+
+versus(vs.)		prep 与…比较，以…为对手
+
+perplex	vt.使困惑；使费解；使复杂化
+
+coordinate		a.同等的，并列的；坐标的	n.坐标（coordination	协调，协同）
+
+realm		n.王国，国土；领域
+
+undermine		vt.暗中破坏，逐渐削弱；侵蚀…的基础
+
+cardinal 		a.最重要的 	n.红衣主教
+
+priest		n.教士，神父
+
+abdomen		n.腹部
+
+memorandum		n.备忘录
+
+emperor		n.皇帝
+
+cathedral		n.大教堂（chapel n.小礼教堂，catholic 天主教徒，天主教的）
+
+elaborate		a.精心制作的，详尽的，复杂的	vt.详细制定
+
+missionary		n.传教士（mission 天职）
+
+lubricate		vt.润滑，加润滑油于（grease n）
+
+ornament		v/n.装饰，美化（decorate）
+
+senate		n.参议院（senator		参议员）
+
+taboo 	n.禁忌，忌讳；禁止
+
+ellipse		n.（天体的）食
+
+render		vt.报答；归还；给予；呈递，提供；开出；演出，扮演；翻译；使，致使

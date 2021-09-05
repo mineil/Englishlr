@@ -28,7 +28,7 @@ interpret 		vt.解释说明;口译
 
 denote 		vt.表示，意味着
 
-concede 		vt.承认，承认...为真；退让，退步
+concede 		vt.承认，承认...为真；退让，退步（concession		n迁就，让步）
 
 dictate 		v.口述，听写；命令；支配
 
