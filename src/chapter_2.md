@@ -93,7 +93,7 @@ vaccine		n.疫苗
 
 ## list13
 
-massarce		vt.大规模屠杀，残杀；彻底击败，惨败
+massacre		vt.大规模屠杀，残杀；彻底击败，惨败
 
 intricate		a.错中复杂的，复杂精细的
 
@@ -187,7 +187,7 @@ realm		n.王国，国土；领域
 
 undermine		vt.暗中破坏，逐渐削弱；侵蚀…的基础
 
-cardinal 		a.最重要的 	n.红衣主教
+cardinal 		a.最重要的 	n.红衣主教（cordinal		诚恳的；亲切的；热枕的）
 
 priest		n.教士，神父
 
@@ -214,3 +214,40 @@ taboo 	n.禁忌，忌讳；禁止
 ellipse		n.（天体的）食
 
 render		vt.报答；归还；给予；呈递，提供；开出；演出，扮演；翻译；使，致使
+
+## list16
+
+weary		a.疲倦的，令人厌烦的	vt.使疲倦，使厌烦
+
+spectacular		a.壮观的，引人注目的	n.壮观的演出
+
+degenerate		vi.衰退，堕落，蜕化	n.堕落者
+
+persevere	（in）	vi.坚持
+
+compromise		vi/n.妥协，折中
+
+gasoline		n.汽油
+
+auction		n.拍卖
+
+pretext		n.借口，托词
+
+eligible		a.有条件被选中的，有资格的；合格的
+
+frontier		n.国境，边境；尖端，新领域
+
+grope	vi.暗中摸索
+
+portable		a.轻便的，便携式的
+
+spontaneous		a.自发的，自然产生的
+
+dilemma		n.窘境，困境
+
+notwithstanding		prep/conj/ad.尽管		
+
+asset		n.资产，财产；优点，有用的东西（property）
+
+defy		vt.违抗，反抗；蔑视
+

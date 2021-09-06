@@ -254,7 +254,7 @@ intervene		vi.插手，干预，调停；插入，介入	(intervention	 n.干涉
 
 vaccum		n.真空；真空吸尘器	v.收集
 
-literacy 		n.识字，有文化；读写能力  (literate a.有文化的	literary  a.文学的 	literal a.文字的)
+literacy 		n.识字，有文化；读写能力  (literate a.有文化的	literary  a.文学的 	literal a.文字的 	literally	ad.照字面意思的；逐字的；确实地，真正的，实际的)
 
 sensitive		a.敏感的，灵敏的
 
