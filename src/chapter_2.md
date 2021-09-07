@@ -5,6 +5,8 @@
 - [list13](#list13)
 - [list14](#list14)
 - [list15](#list15)
+- [list16](#list16)
+- [list17](#list17)
 ## list11
 
 siren 		n.警报声，报警器
@@ -59,7 +61,7 @@ cosmic		a.宇宙的
 
 ## list12
 
-surgery		n.外科，外科学；手术室
+surgery		n.外科，外科学；手术室（surgeon 外科医生）
 
 stereotype		n.陈规，老套，旧框框；铅板	vt.成固定形象
 
@@ -175,7 +177,7 @@ tramp		n.流浪者	v.步行，跋涉
 
 ## list15
 
-erosion		n.腐蚀，磨损；削弱，减少（corrosion	侵蚀）
+erosion		n.腐蚀，磨损；削弱，减少（corrosion	侵蚀	 corrode v.（受）侵蚀，腐蚀）
 
 versus(vs.)		prep 与…比较，以…为对手
 
@@ -251,3 +253,48 @@ asset		n.资产，财产；优点，有用的东西（property）
 
 defy		vt.违抗，反抗；蔑视
 
+garment		n.(一件)衣服
+
+## list17
+
+proclaim		vt.宣告，声明
+
+earnest		a.热心的，诚挚的
+
+damp		a.有湿气的，潮湿的
+
+subsequent		a.随后的，后来的（sequent 接续而来的）
+
+stimulate		vt.刺激，是兴奋；激励，鼓舞
+
+competent		a.有能力的，胜任的
+
+republican 		a.共和政体的，共和国的 	n.共和国人	（republic		共和国）
+
+excess		a.过量的，额外的	n.过量，过剩
+
+collaborate		vi.协作，合作
+
+cluster		n.丛，群，串；星团 v.群生，丛生
+
+stain			n.污点，瑕疵 vt.弄脏，玷污；染色
+
+satire		n.讽刺，讽刺作品
+
+temper		n.脾气，情绪；韧度，回火度 vt.减缓；调和，调节（tempered 有脾气的）
+
+correspondent  		n.记者，通讯员 （correspond vi.相符合，相一致；通信，correspondence 信件，一致）
+
+humidity		n.湿气，湿度（moistness）
+
+episode		n.片段；一集
+
+relay		vt.中继，转播；接力传递	n.接替人员；接班
+
+prohibit		vt.禁止，阻止，不准；使不可能
+
+differentiate		vi.区分，区别 vt.使不同
+
+calcium		n.钙
+
+hypothesis			n.假设，假说；前提
