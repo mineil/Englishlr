@@ -7,6 +7,7 @@
 - [list15](#list15)
 - [list16](#list16)
 - [list17](#list17)
+- [list18](#list18)
 ## list11
 
 siren 		n.警报声，报警器
@@ -298,3 +299,78 @@ differentiate		vi.区分，区别 vt.使不同
 calcium		n.钙
 
 hypothesis			n.假设，假说；前提
+
+centigrade		n.摄氏温度，百分度 a.摄氏温度的，百分度的
+
+## list18
+
+denounce 		vt.公开指责，抨击；告发某人（accuse 控告 condemn 谴责，声讨）
+
+bachelor		n.单身汉；学士
+
+resort（to）		vi.求助；诉诸；凭借	n.胜地；常去之地 ；手段
+
+domain 		n.领域；产业；地产 （dominant a.支配的，统治的；占优势的）
+
+bud		n.芽，花苞；发芽
+
+cloak 	n.外套，斗篷	vt.掩盖，蒙蔽
+
+corridor		n.走廊；狭长通道
+
+belly 		n.肚子；腹部（stomach 胃 	intestine    肠）
+
+vigorous		a.有力的，朝气蓬勃的
+
+democratic		a.民主的，大众的
+
+smash		v/n.打碎，粉碎	
+
+marital		a.婚姻的；夫妻的
+
+verse 	 	n.韵文，诗；诗句
+
+insulate     v.隔离，孤立；使绝缘，使绝热（isolate）
+
+prompt		a.敏捷的；迅速的；即刻的	vt.激起；促进，推动
+
+oath 		n.誓言，誓约；咒骂
+
+repression 	n.压制，压抑，镇压（suppression constraint）
+
+conform 		vt.遵守，依照
+
+henceforth	 	今后
+
+probe 		n.探针，探测器		v.探查，穿刺；查究
+
+relish		n.滋味；调味品	vt.欣赏
+
+harassment 		n.骚扰，扰乱；烦恼，烦乱
+
+cylinder 		n.圆筒，圆柱体
+
+versatile		a.通用的，万用的；多才多艺的，多方面的
+
+consecutive		a.连续不断的，连贯的
+
+leisure 		n.空闲；悠闲
+
+contend		vi.（with)竞争，斗争；坚决主张；声称（contention n.争夺  contest v.争夺，竞赛 maintain 主张）
+
+blast		n.一阵，一股；爆炸冲击波	v.爆炸，爆破（explode）
+
+obedient		a.服从的
+
+hound 	n.类犬  vt.追逼
+
+flush   v.冲洗，脸红	n.脸红（flush with 因…脸红）
+
+hatred 		n.憎恨，怨恨
+
+kettle 		n.水壶
+
+intensive     a.加强的，集中的；深入细致的（intense  强烈的，紧张的，非常的）
+
+nominal 		a.名义上的；微不足道的（titular a.名义上的，有名无实的）
+
