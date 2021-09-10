@@ -8,6 +8,7 @@
 - [list16](#list16)
 - [list17](#list17)
 - [list18](#list18)
+- [list19](#list19)
 ## list11
 
 siren 		n.警报声，报警器
@@ -373,4 +374,48 @@ kettle 		n.水壶
 intensive     a.加强的，集中的；深入细致的（intense  强烈的，紧张的，非常的）
 
 nominal 		a.名义上的；微不足道的（titular a.名义上的，有名无实的）
+
+## list19
+
+trigger 		n.板机 	vt.引发，导致
+
+puff 		n.一口，一阵（风） vi.喘气，喷气
+
+respective		a.各自的，各个的
+
+transient		a.短暂的；过往的
+
+throne		n.王位，君权
+
+retrieve		vt.重新得到，收回，取回；挽回，补救；检索（reclaim vt.重新得到，收回	retake v.再拿，再取）
+
+counterpart 		n.对应的人，职位
+
+recognition		n.认出，辨认；承认
+
+dissipate		v.驱散，浪费，挥霍
+
+composite		n.混合物，合成物		a.合成的，复合的（compose	vt.组成，构成 vi.创作）
+
+desperate		a.绝望的，不顾一切的，拼死的；急需要的，渴望的；危急的，严峻的
+
+despair		vi.（of）绝望 n.绝望
+
+induce		vt.诱引，劝使；引起，导致（reduce 减少 deduce vt.推测  seduce 诱使  induction n.归纳法，诱使；引起 		inductive		a.归纳的，诱人的）
+
+exclusion		n.排除（expulsion		n.驱逐，逐出）
+
+dignity		n.庄严，端庄；尊严，高贵
+
+cereal 		n.谷物，谷类粮食
+
+coalition		n.结合体，同盟；结合，联合，联合政府（alliance 同盟 league）
+
+essence  		n.本质，实质
+
+instalment		n.分期付款 ，分期交付；一集；一期
+
+ward 	n.病房；行政区；受监护人	vt.保护，守卫
+
+
 
