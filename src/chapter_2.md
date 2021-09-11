@@ -9,6 +9,7 @@
 - [list17](#list17)
 - [list18](#list18)
 - [list19](#list19)
+- [list20](#list20)
 ## list11
 
 siren 		n.警报声，报警器
@@ -417,5 +418,42 @@ instalment		n.分期付款 ，分期交付；一集；一期
 
 ward 	n.病房；行政区；受监护人	vt.保护，守卫
 
+## list20
 
+compatible 		a.能和睦相处，合得来的；兼容的
 
+assimilate		v.经消化而吸收，同化
+
+cohesive		a.凝聚的，黏着的
+
+assumption		n.假定，设想；承担，担任（assume vt.假定，假设		presumption	n.假定		consumption	消费		resumption		n.恢复）
+
+interfere		（in）vi.干涉，干预		（with）妨碍，打扰
+
+assess		vt.估价，评价
+
+magnitude		n.大小，数量；巨大，广大；重要性，重要程度
+
+pendulum		n.摆，钟摆
+
+abound		vi.(in)富于，大量存在	（with）充满
+
+retreat		vi.（to）撤退，退却	n.撤退；静修；隐居地
+
+humiliate		vt.使蒙羞，使丢脸
+
+appliance		n.用具，器具
+
+clause		n.条款；从句，分句
+
+conspicuous		a.显眼的，明显的	（striking		a.显著的，突出的）
+
+strife		n.冲突，斗争
+
+reconcile		vt.使和好，调解；使一致
+
+militant 		a.好战的，好斗的	n.激进分子
+
+diplomatic		a.外交的，从事外交的；有策略的，有手腕的
+
+​	
