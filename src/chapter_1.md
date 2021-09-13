@@ -32,7 +32,7 @@ concede 		vt.承认，承认...为真；退让，退步（concession		n迁就，
 
 dictate 		v.口述，听写；命令；支配
 
-rhythm 		n.节奏、韵律
+rhythm 		n.节奏、韵律 （melody 旋律，曲调）
 
 propaganda		n.宣传
 
@@ -60,7 +60,7 @@ converge 		vi.会合；聚集
 
 ## list3
 
-fabulous 		a.寓言式的，传奇式的；极为巨大的；极好的
+fabulous 		a.寓言式的，传奇式的；极为巨大的；极好的（fable 	n.寓言）
 
 prosperity 		n.繁荣，兴旺
 

@@ -1,6 +1,7 @@
 # List 21~30
 
 - [list21](#list21)
+- [list22](#list22)
 
 ## list21
 
@@ -18,7 +19,7 @@ sponsor		n.发起人；保证人
 
 gallop		vi/n.奔驰，飞跑
 
-spine		n.脊骨，脊柱；刺毛；书脊
+spine		n.脊骨，脊柱；刺毛；书脊（pine 松树	pin 针）
 
 prophet		n.先知，预言家
 
@@ -56,25 +57,72 @@ charter		n.宪章；契约	vt.祖船
 
 external		a.外部的，外面的
 
-multitude		n.众多，大量
+multitude		n.众多，大量 
 
+thesis 		n.论文（dissertation		论文	discourse	 论文，演讲）
 
+## list22
 
+entrepreneur			n.企业家，承包人
 
+orphan		n.孤儿
 
+immerse		vt.使沉浸，使陷入；使浸没
 
+queer		a.奇怪的，异常的；不舒服的，眩晕的
 
+fling			vt.扔，丢（pitch vt.投掷，扔		flip		vt.掷，弹	toss v.扔，抛，掷）
 
+discrepancy		n.不同，矛盾（accord 	n.一致，符合）
 
+observe 		vt.遵守，奉行;观察，注意到，看到（observable	a.应遵守的；看得见的 observer n.遵守者，观察者）
 
+implement		vt.使生效，实施，执行，贯彻	n.工具，器具
 
+commence		v.开始
 
+dismiss		vt.免职，解雇，开除；解散；驳回，不予受理；不予考虑
 
+lateral		a.侧面的，旁边的
 
+counsel		vt/n.劝告，忠告	法律顾问；辩护人
 
+alienate		vt.使疏远，使格格不入；使不友好，离间
 
+raid	n.袭击，侵袭
 
+reckon		vt.认为，估计；计算，测量 vi.指望，想要（reck 顾虑，介意）
 
+abrupt		a.突然的，意外的；唐突的，鲁莽的；不连贯的，支离破碎的（disrupt vt.使破裂，使分裂；扰乱，使中断）
 
+hierarchy		n.等级制度，统治集团；领导者
 
+pyramid		n.金字塔
 
+thrift		n.节约，节俭（rift 裂缝）
+
+sauce		n.酱汁，调味汁
+
+legislation		n.法律，法规
+
+ferry			n.渡船	vt.渡运
+
+frustrate		vt.使回信；挫败（frustrated 令人灰心的 frustration 挫败，挫折）
+
+decimal	a.十进制的；小数的	n.小数
+
+pharmacy		n.药剂学，制药；药店
+
+subordinate		a.次要的，从属的，下级的	n.部署，下级（inferior 下级的，下等的）
+
+bizarre		a.奇异的，怪诞的（blizzard 大风雪）
+
+layman		n.普通信徒；门外汉
+
+porcelain		n.瓷器	a.瓷的
+
+mechanism		n.机械装置；机构；物理过程；机能
+
+inaugurate 	vt.开始，开展	为...举行就职典礼，使正式就任；为...举行开幕仪式
+
+​	
