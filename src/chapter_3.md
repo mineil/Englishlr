@@ -2,6 +2,7 @@
 
 - [list21](#list21)
 - [list22](#list22)
+- [list23](#list23)
 
 ## list21
 
@@ -125,4 +126,55 @@ mechanism		n.机械装置；机构；物理过程；机能
 
 inaugurate 	vt.开始，开展	为...举行就职典礼，使正式就任；为...举行开幕仪式
 
-​	
+## list23
+
+diverse		a.多种多样的，不同的
+
+prone		a.平卧的，俯卧的；易于做…的
+
+absord		a.荒唐的(absorb v.吸收	obscure 模糊的	obsolete 已废弃的	ridiculous	荒谬的，可笑的)
+
+evaporate		v.使（蒸发）
+
+scatter		v.散开，驱散
+
+vanity		n.虚荣心，浮华
+
+scout		n.侦察兵	vi.搜索，侦查
+
+eloquent		a.雄辩的，有说服力的；动人的，意味深长的
+
+scramble		vi/n.攀登，爬；争夺，抢夺	vt.扰乱，搞乱
+
+horrible		a.令人恐怖的，可怕的；极讨厌的，使人不愉快的
+
+torture		vt/n.拷问，拷打；磨难，折磨
+
+nonetheless		conj/ad.尽管如此，依然
+
+household		n.家庭	a.全家人
+
+overflow		v.外溢，溢出
+
+ingenious		a.有独创性的
+
+recipient	n.接受者，收受者
+
+flatter		vt.奉承；使高兴
+
+credentials		n.证明书，证件；资格
+
+directory		n.人名地址录，号码薄
+
+gear		n.齿轮，传动装置 v.调整
+
+conscience		n.良心，良知
+
+paradox		n.似非而是的话；反论，悖论
+
+investigate		vt.调查，研究
+
+magnify		vt.扩大，放大
+
+loyal 	a.忠诚的（royal 皇家的，贵族的）
+
