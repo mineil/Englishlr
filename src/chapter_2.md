@@ -124,7 +124,7 @@ soar		vi.猛增，剧增；高飞，翱翔
 
 torment 		n.痛苦，折磨；令人痛苦的东西，折磨者	vt.折磨，使痛苦
 
-architecture		n.建筑，建筑学，结构
+architecture		n.建筑，建筑学，结构（architect	建筑师）
 
 cognitive		a.认知的，认识的，有感知能力的
 

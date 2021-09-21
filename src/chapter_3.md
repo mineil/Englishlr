@@ -3,6 +3,7 @@
 - [list21](#list21)
 - [list22](#list22)
 - [list23](#list23)
+- [list24](#list24)
 
 ## list21
 
@@ -126,7 +127,7 @@ mechanism		n.机械装置；机构；物理过程；机能
 
 inaugurate 	vt.开始，开展	为...举行就职典礼，使正式就任；为...举行开幕仪式
 
-## list23
+##  list23
 
 diverse		a.多种多样的，不同的
 
@@ -177,4 +178,50 @@ investigate		vt.调查，研究
 magnify		vt.扩大，放大
 
 loyal 	a.忠诚的（royal 皇家的，贵族的）
+
+## list24
+
+ sue 	v.控告，对…提起诉讼（prosecute v.起诉，告发	indict v.起诉，控告 issue n.发行，问题 tissue 组织 纸巾）
+
+premise 		n.前提，假设
+
+profile		n.侧面，轮廓；人物简介；形象，印象
+
+peninsula		n.半岛
+
+crucial		a.至关重要的，决定性的
+
+initiate		vt.发动，开动
+
+dividend		n.红利，股息；回报，效益；被除数
+
+nourish		v.养育，滋养；保持；增长（nutrition		n.营养）
+
+mourn		v.哀悼，悲悼
+
+precision		n.精确，准确；精确度
+
+guarantee		n.保证；保证书 vt.保证，担保
+
+intercouse 	n.交际，往来
+
+shrug		v.耸肩
+
+summon		vt.召唤，召集；传讯；使出；鼓起，振作
+
+ tangle		v.缠结，使乱做一团	n.乱糟糟的一堆；困惑，混乱
+
+forge		vt.锻造，伪造
+
+pierce	vt.刺穿，刺破
+
+accommodation		n.住宿，留宿
+
+trifle		n.少量，少许；小事，琐事	vt.嬉耍
+
+gauge/gage		n.标准尺寸，规格；量规（criterion	n.评判的标准，尺度）
+
+premier	n.首相，总理
+
+cling 		vi.(to)黏住，依附；坚持；抱紧
 
