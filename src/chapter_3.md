@@ -133,7 +133,7 @@ diverse		a.多种多样的，不同的
 
 prone		a.平卧的，俯卧的；易于做…的
 
-absord		a.荒唐的(absorb v.吸收	obscure 模糊的	obsolete 已废弃的	ridiculous	荒谬的，可笑的)
+absurd		a.荒唐的(absorb v.吸收	obscure 模糊的	obsolete 已废弃的	ridiculous	荒谬的，可笑的)
 
 evaporate		v.使（蒸发）
 
@@ -181,7 +181,7 @@ loyal 	a.忠诚的（royal 皇家的，贵族的）
 
 ## list24
 
- sue 	v.控告，对…提起诉讼（prosecute v.起诉，告发	indict v.起诉，控告 issue n.发行，问题 tissue 组织 纸巾）
+ sue 	v.控告，对…提起诉讼（prosecute v.起诉，告发	indict v.起诉，控告 issue n.发行;问题 tissue 组织;纸巾）
 
 premise 		n.前提，假设
 
@@ -199,7 +199,7 @@ nourish		v.养育，滋养；保持；增长（nutrition		n.营养）
 
 mourn		v.哀悼，悲悼
 
-precision		n.精确，准确；精确度
+precision		n.精确，准确；精确度（precise	a.精确的）
 
 guarantee		n.保证；保证书 vt.保证，担保
 
@@ -225,3 +225,4 @@ premier	n.首相，总理
 
 cling 		vi.(to)黏住，依附；坚持；抱紧
 
+intimidate		vt.胁迫
