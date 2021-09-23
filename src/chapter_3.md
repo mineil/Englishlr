@@ -181,7 +181,7 @@ loyal 	a.忠诚的（royal 皇家的，贵族的）
 
 ## list24
 
- sue 	v.控告，对…提起诉讼（prosecute v.起诉，告发	indict v.起诉，控告 issue n.发行;问题 tissue 组织;纸巾）
+sue 	v.控告，对…提起诉讼（prosecute v.起诉，告发	indict v.起诉，控告 issue n.发行;问题 tissue 组织;纸巾）
 
 premise 		n.前提，假设
 
@@ -226,3 +226,55 @@ premier	n.首相，总理
 cling 		vi.(to)黏住，依附；坚持；抱紧
 
 intimidate		vt.胁迫
+
+## list25
+
+perceive		vt.察觉（deceive  v.欺骗 deception	n.欺骗）
+
+vibrate		v.（使）震动，摇摆，颤动
+
+ascertain		vt.查明，弄清，确定（certain 某些，确定）
+
+storage		n.贮藏，保管，存储
+
+commute		vi/n.乘公交车往返，通勤
+
+drawf		n.矮子，侏儒	a.矮小的	vt.（由于对比）使显得矮小；相形见绌
+
+prescription		n.药方，处方
+
+decisive		a.决定性的
+
+assault		n./vt.袭击，攻击
+
+evacuate		vt.疏散，撤出；使丧失，夺去，剥夺
+
+sophisticated			a.尖端的，复杂的，先进的；老练的，老于世故的
+
+uproar		n.骚动，喧嚣，鼎沸
+
+toll		n.过路费；伤亡人数；严重的不良影响；长途电话费		vt.征收（过路费）；敲（钟）
+
+sprinkle		vt.洒，喷，淋
+
+consensus		n.一致，一致同意（consent	v/n准许，同意）
+
+advocate		n.提倡者，鼓吹者	vt.提倡，鼓吹
+
+bunch		n.一串，一群，一帮，一伙
+
+benign		a.良性的；善良的
+
+contempt		n.轻蔑，藐视
+
+gasp		n/v.喘息，气喘	
+
+dew	n.露水
+
+conception		n.概念，观念
+
+tuck		vt.卷起，塞进
+
+antique		a.古时的，古老的	n.古董
+
+​	
