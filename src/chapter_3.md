@@ -4,6 +4,8 @@
 - [list22](#list22)
 - [list23](#list23)
 - [list24](#list24)
+- [list25](#list25)
+- [list26](#list26)
 
 ## list21
 
@@ -277,4 +279,67 @@ tuck		vt.卷起，塞进
 
 antique		a.古时的，古老的	n.古董
 
-​	
+## list26
+
+assocaation		n.协会，团体；联合，联系；联想
+
+periodical		n.周刊，杂志；周期的，定期的
+
+testify		v.证明，证实
+
+proposal		n.提议，建议；求婚
+
+redeem		vt.赎回；挽回；救赎
+
+legacy		n.遗产；遗留之物
+
+malignant		a.恶毒的；恶性的；致命的
+
+coincide	vi（with）和…一致，相符，相同
+
+clockwise		a.顺时针方向的
+
+spectator		n.观众，旁观者
+
+fellowship		n.伙伴关系，友谊，团体
+
+interim		n.间歇；过渡期间	a.暂时的，临时的
+
+pail 		n.提桶
+
+individual		a.个人的；单独的；独特的
+
+nitrogen		n.氮
+
+protein		n.蛋白质
+
+array		n.一系列，大量；排列
+
+estate		n.地产，房地产
+
+significance		n.意义，重要性（significant  有意义的，重大的）
+
+innovation		n.创新，改革
+
+hypocrisy 		n.伪善，虚伪
+
+latent		a.潜在的 ，潜伏的
+
+extraordinary		a.非常的，格外的
+
+gymnasium/gym		n.体育馆，健身房
+
+laundry		n.洗衣；洗衣房
+
+classification		n.分类，分级
+
+mutual		a.相互的，共有的
+
+avail		n.效用，利益	v.有助于，利用于 
+
+captive 		n.俘虏	a.被俘获的，被监禁的
+
+postpone		vt.推迟，延期
+
+universal		a.普遍的，全体的，通用的
+

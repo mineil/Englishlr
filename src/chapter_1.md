@@ -66,7 +66,7 @@ prosperity 		n.繁荣，兴旺
 
 siege		n.包围，围攻
 
-ample 		a.充分的，富裕的；宽敞的
+ample 		a.充分的，富裕的；宽敞的（amplifier 放大器）
 
 psychology 		n.心理学；心理
 
