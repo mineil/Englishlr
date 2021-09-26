@@ -6,6 +6,7 @@
 - [list24](#list24)
 - [list25](#list25)
 - [list26](#list26)
+- [list27](#list27)
 
 ## list21
 
@@ -281,7 +282,7 @@ antique		a.古时的，古老的	n.古董
 
 ## list26
 
-assocaation		n.协会，团体；联合，联系；联想
+association	n.协会，团体；联合，联系；联想
 
 periodical		n.周刊，杂志；周期的，定期的
 
@@ -342,4 +343,74 @@ captive 		n.俘虏	a.被俘获的，被监禁的
 postpone		vt.推迟，延期
 
 universal		a.普遍的，全体的，通用的
+
+## list27
+
+proceeding		n.行动，进行；会议记录；学报
+
+prospective		a.未来的，预期的，可能的（perspective	远景；希望，前途；透视法）
+
+scope		n.范围，机会；余地
+
+lure		vt.吸引，诱惑	n.诱惑物，诱饵，鱼饵（allure 	vt.诱惑，吸引 entice vt.引诱）
+
+panorama		n.概观，全景；综述
+
+conquest		n.征服
+
+hinder		vt.阻止，妨碍
+
+slipper		n.拖鞋
+
+equator		n.赤道
+
+bait		n.鱼饵，诱饵	vt.装饵于
+
+remedy		n.药品；治疗措施	vt.治疗，医治；纠正，补救
+
+paraphrase		n.释义，解释
+
+weld		vt/n.焊接，锻接
+
+ethnic		a.种族的，民族的
+
+condemn		vt.谴责；判刑
+
+parameter		n.参数
+
+endure		v.忍受，容忍；持久，持续
+
+deputy		n.代理人，代表	a.副的，代理的
+
+ethnic		a.种族的，民族的
+
+ditch 		n.沟，水渠	v.摆脱
+
+copper		n.铜
+
+elevate		vt.抬起，升高；提拔
+
+rotate		v.使旋转
+
+palm		n.手掌，掌状物
+
+stumble		vi.跌倒，绊倒
+
+commonplace		a.平凡的；陈腐的
+
+acrobat		n.特技演员
+
+proposition		n.主张，建议；陈述，命题
+
+audit		vt.审计，核对；旁听
+
+affiliate		v.(to)隶属于	n.附属机构，分公司
+
+chamber		n.房间，室
+
+inhibit		vt.阻止，妨碍，抑制（hinder 阻碍	obstruct	妨碍 impede 阻碍）
+
+exile		n./vt.放逐，流放
+
+formula		n.公式，程式；准则，方案
 
