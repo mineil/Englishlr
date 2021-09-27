@@ -7,6 +7,7 @@
 - [list25](#list25)
 - [list26](#list26)
 - [list27](#list27)
+- [list28](#list28)
 
 ## list21
 
@@ -372,8 +373,6 @@ paraphrase		n.释义，解释
 
 weld		vt/n.焊接，锻接
 
-ethnic		a.种族的，民族的
-
 condemn		vt.谴责；判刑
 
 parameter		n.参数
@@ -413,4 +412,74 @@ inhibit		vt.阻止，妨碍，抑制（hinder 阻碍	obstruct	妨碍 impede 阻�
 exile		n./vt.放逐，流放
 
 formula		n.公式，程式；准则，方案
+
+## list28
+
+medieval 		a.中世纪的，中古的
+
+artificial		a.人工的，人造的；矫揉造作的
+
+meadow		n.草地，牧场
+
+fabricate		vt.捏造，编造；建造，制造，创造
+
+weird		a.古怪的
+
+doctrine		n.教条，学说
+
+lodge		vt.住宿，投宿
+
+curve			n.曲线，弯曲；v.弄弯
+
+executive		n.总经理；董事；执行的；行政的
+
+generalize		v.归纳，概括；推广，普及
+
+merchandise		n.商品，货物
+
+characterize		vt.表示…的特性，描述…的特性
+
+rainbow		n.彩虹 
+
+grocer		n.食品商
+
+refuge		n.避难所，藏身处
+
+swallow		v.吞咽，相信；信以为真
+
+streamline		a.流线型的
+
+threshold		n.门槛，开端
+
+chef		n.厨师
+
+disgust		n/vt.厌恶，恶心
+
+somewhat		ad.稍微，有点
+
+widow		n.寡妇
+
+prosper		v.繁荣，使成功
+
+complementary		a.补充的；辅助的
+
+adjacent		a.邻近的
+
+prevalent		a.流行的，普遍的
+
+cultivate		vt.耕作，栽培；培养；结交
+
+ignorant		a.无知的
+
+format		n.设计，安排，样式
+
+misery		n.痛苦，悲惨，不幸
+
+salient		a.显著的
+
+consolidate		v.巩固，加强
+
+patrol		v.巡逻
+
+recede		vi.退，退去；向后倾斜
 
