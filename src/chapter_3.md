@@ -8,6 +8,7 @@
 - [list26](#list26)
 - [list27](#list27)
 - [list28](#list28)
+- [list29](#list29)
 
 ## list21
 
@@ -482,4 +483,86 @@ consolidate		v.巩固，加强
 patrol		v.巡逻
 
 recede		vi.退，退去；向后倾斜
+
+## list29
+
+blad 	a.秃头
+
+bundle		n.捆，扎
+
+proficiency		n.熟练，精通
+
+inherent		a.固有的，内在的，天生的
+
+spouse		n.配偶
+
+hoist		vt.举起，升起，吊起
+
+dwell		vi.住，居留
+
+burden		n.担子，负担，重担
+
+outset		n.开始，开端
+
+refrain		vi.抑制，克制；戒除	n.反复句
+
+soluble		a.可溶的
+
+reassure		vt.使…安心，安慰
+
+compliment		n.称赞，恭维 ，问候	vt.称赞，恭维
+
+sprout		v.抽条，发芽	n.芽，幼芽
+
+plot		n.秘密计划；小块土地；情节	vt.标绘，绘制；密谋，策划
+
+collide		vi.碰撞；（with）冲突，抵触
+
+magistrate		n.地方法官，治安官
+
+rebellion		n.叛乱，反抗，起义
+
+compile		vt.搜集，汇编
+
+oxide 	n.氧化物	（dioxide 二氧化物）
+
+adhere		vi.粘附，胶着；坚持
+
+dizzy		a.头晕目眩的，眩晕的
+
+management		n.经营，管理
+
+millionaire		n.百万富翁，大富翁
+
+accommodate		vt.留宿，收容；供应，供给；调和，适应
+
+commerce 	n.商业，贸易
+
+hazard		n.危险，冒险，危害	vt.拼命，冒险
+
+toxic		a.有毒的，中毒的
+
+assume 	vt.假装，假定，设想；采取，承担（presume	vt.假定，推测	consume 消耗）
+
+quench		vt.扑灭 ；解渴（distinguish		扑灭）
+
+culprit		n.罪犯，肇事者
+
+commonwealth		n.共和国，联邦
+
+omit		vt.省略，略去，遗漏
+
+naked		a.裸体的，无遮掩的（bare）
+
+impart		vt.给予，赋予；传授（impartial  	a.公平的，无偏见的）
+
+peel		n.果皮
+
+behalf		n.利益，代表
+
+extent		n.广度，宽度；程度，限度（extend   延伸，延续
+
+deduct		vt.扣除，演绎	(deduction n.演绎，扣除 deductive	推论的，演绎的)
+
+autonomy 		n.自治，自治权；人生自由
 

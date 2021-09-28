@@ -44,7 +44,7 @@ eliminate			vt.消除，排除
 
 manipulate 		vt.操作，控制；操纵
 
-rigorous		a.严密的；严格的
+rigorous		a.严密的；严格的 (rigour	n.严格)
 
 solidarity		n.团结，一致
 
