@@ -9,6 +9,7 @@
 - [list27](#list27)
 - [list28](#list28)
 - [list29](#list29)
+- [list30](#list30)
 
 ## list21
 
@@ -486,7 +487,7 @@ recede		vi.退，退去；向后倾斜
 
 ## list29
 
-blad 	a.秃头
+bald 	a.秃头
 
 bundle		n.捆，扎
 
@@ -565,4 +566,86 @@ extent		n.广度，宽度；程度，限度（extend   延伸，延续
 deduct		vt.扣除，演绎	(deduction n.演绎，扣除 deductive	推论的，演绎的)
 
 autonomy 		n.自治，自治权；人生自由
+
+incredible		a.不可相信的，惊人的，不可思议的
+
+
+
+## list30
+
+chancellor		n.大臣；总理；首席法官；大学校长
+
+wedge 		n.楔形	vt.楔牢
+
+remarkable		a.异常的，引人注目的
+
+strip		vt.剥去	n.窄条，带状物
+
+arrogant		a.傲慢的，自大的
+
+scenery		n.风景
+
+statute		n.法规，章程，规则
+
+forum		n.论坛，讨论会
+
+oriental		a.东方的
+
+glitter		n.光辉，灿烂	vi.闪耀
+
+spoil		vt.损坏；宠坏
+
+bolt		n.螺栓，插销 	vt.关窗，拴住
+
+banquet		n.宴会，盛宴
+
+primitive		a.原始的，远古的，早期的；粗糙的；简单的
+
+aesthetic		a.美学的，艺术的
+
+solitary		a.单独的，独自的；单个的，唯一的；孤独的
+
+kidney		n.肾脏
+
+preface		n.序言，引言
+
+severe			a.严格的，严厉的；剧烈的；严峻的
+
+brittle		a.易碎的，脆弱的
+
+scrutiny 		n.仔细观察，仔细审查
+
+pavement		n.人行道
+
+indignant		a.愤慨的，愤愤不平的
+
+emphasis		n.强调；重点
+
+revenue		n.收入，财政收入
+
+blunt		a.率直的，钝的	vt.使钝
+
+catastrophe		n.突如其来的大灾难
+
+mechanic		n.	技工，机修工
+
+mingle		vt.使混合；相交往
+
+enterprise		n.企业单位；事业心，进取心
+
+garlic		n.蒜头，大蒜
+
+denial		n.否认，拒绝
+
+bracket		n.括号
+
+activate		vt.启动，激活（motivate 激励；驱动，驱使）
+
+steward		n.乘务员，管家
+
+council		n.理事会，委员会（counsel  n.忠告 consul  领事）
+
+aggravate		vt.使恶化，家中
+
+famine		n.饥荒
 
