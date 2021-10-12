@@ -1,6 +1,7 @@
 # List 31~40
 
 - [list31](#list31)
+- [list32](#list32)
 
 ## list31
 
@@ -88,5 +89,99 @@ feasible		a.可行的
 
 nostalgic		a.怀旧的
 
+## list32
 
+assemble 		vt.集合，聚集，装备 	(assembly n.)
+
+ribbon 		n.缎带，丝带
+
+retail		n.零售
+
+oxygen 		n.氧气（carbon dioxide	二氧化碳）
+
+humble		a.谦卑的，恭顺的；低下的，卑贱的	vt.降低，贬抑
+
+cherish		vt.珍爱，怀有	
+
+savage 		a.野蛮的，未开化的；凶恶的，残暴的
+
+grave 	n.坟墓 	a.严肃的，庄重的
+
+canoe	n.独木舟
+
+tedious		a.单调的，乏味的
+
+infrastructure	n.基础结构，基础设施
+
+expenditure	n.花费
+
+diagnose		vt.诊断
+
+leaflet		n.小叶，嫩叶
+
+temporary	a.暂时的
+
+necessitate		vt.需要，使成为
+
+disperse		v.分散，驱散，解散
+
+dispatch		vt.派遣，调遣
+
+epidemic		a.流行的，传染的 	n.流行病
+
+knit	v.编织，编结
+
+recognise	vt.认出，识别；承认
+
+precise		a.精确的
+
+prick	vt.刺伤，刺痛;刺孔	n.刺伤，刺痛
+
+plug	n.塞子，插头	vt.堵塞，嵌入，插入
+
+fulfill		vt.完成，实现
+
+soak		v.吸收，浸泡
+
+graze		vt.放牧；擦伤，掠过	n.擦伤
+
+addict	vt.使成瘾，使入迷	n.有瘾的人
+
+drought		n.旱灾，干旱
+
+badge	n.徽章
+
+surge		vi.汹涌，奔腾；急剧上升，猛增
+
+spectacle		n.景象，奇观
+
+forthcoming	a.即将到来的
+
+hedge		n.篱笆，树篱；障碍物	vt.保护…以免；预防
+
+debate		v.争辩，争论
+
+caress		n.爱抚，接吻 vt.抚爱，抚摸
+
+dialect	n.方言
+
+entail		vt.牵连；使成为必要
+
+grim		a.讨厌的，糟糕的；严厉的
+
+==redundant		a.累赘的；过剩的，多余的==
+
+resident	n.居民，常住者
+
+presume	vt.假定，假设；认为
+
+attendant	n.服务员，值班员	a.伴随的，附带的
+
+prestige	n.威信，威望
+
+transition	n.办理，处理；交易，事务
+
+spiritual	a.精神上的，心灵的
+
+motive	n.动机，目的	a.发动的，运动的
 
