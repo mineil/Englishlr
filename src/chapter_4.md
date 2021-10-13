@@ -2,6 +2,7 @@
 
 - [list31](#list31)
 - [list32](#list32)
+- [list33](#list33)
 
 ## list31
 
@@ -169,7 +170,7 @@ entail		vt.牵连；使成为必要
 
 grim		a.讨厌的，糟糕的；严厉的
 
-==redundant		a.累赘的；过剩的，多余的==
+**redundant		a.累赘的；过剩的，多余的**
 
 resident	n.居民，常住者
 
@@ -184,4 +185,114 @@ transition	n.办理，处理；交易，事务
 spiritual	a.精神上的，心灵的
 
 motive	n.动机，目的	a.发动的，运动的
+
+## list33
+
+relevant		a.有关的，相应的；适当的，中肯的；实质性的
+
+homogeneous		a.同种类的，同性质的
+
+shilling		n.先令
+
+infant		n.婴儿，幼儿；学童	adj.供婴儿用的
+
+cast		vt.投，扔，掷；铸造	n.演员表；全体演员；铸件
+
+warrant		n.正当理由；许可证；	vt.保证，担保
+
+analysis		n.分析，分解
+
+syndrome		n.综合症
+
+roundabout		a.迂回的，转弯抹角的	n.环状交叉路
+
+derive		vt.取得	vi.起源
+
+convert		v.变换，转化（conversion	n.转变，转化）
+
+elegant		a.优雅的
+
+testimony		n.证据，证词；表明，说明（testify v.证明	testification 	n.举证）
+
+exaggerate		v.夸张，扩大
+
+accompany		vt.陪同，伴随；为…伴奏
+
+orthodox		a.传统的，符合社会风俗的；正统的
+
+isolate		vt.使隔离；孤立
+
+fixture		n.固定，固定物
+
+incorporate		vt.合并，纳入；结合	a.合并的 （cooperation	n.公司）
+
+repeated		a.重复的
+
+divine		a.神的，神圣的；非凡的，超人的；神授的
+
+racket		n.球拍
+
+virtual		a.实际上的，事实上的，虚的
+
+pedestrian	 a.徒步的；缺乏想象的	n.行人，步行者
+
+kit		n.成套工具；配套原件
+
+rake		n.靶子，靶机	vi.探索
+
+beast		n.兽，牲畜
+
+regarding		prep.关于
+
+attorney		n.律师 （lawyer）
+
+anguish		n.极度痛苦
+
+fatigue		n.疲劳（plague	n.瘟疫）
+
+wardrobe		n.衣橱；全部的衣物
+
+applaud		v.喝彩，欢呼，鼓掌；称赞，赞许
+
+unemployment	n.失业
+
+anonymous		a.匿名的，无名的
+
+segment		n.段，节；部分
+
+paperback		n.简装本，平装本
+
+organism		n.生物体
+
+capacity		n.容量，容积；能量，能力
+
+metaphor			n.隐喻
+
+verdict		n.裁定，判断；定论；意见
+
+pebble		n.卵石
+
+groan		vi.呻吟	n.呻吟
+
+plead		vi.恳求，请求
+
+tick		n.滴答声，标以记号
+
+cruise		vi.航游，巡航；n.航游
+
+intrinsic		a.内在的，本质的，固有的
+
+facilitate		vt.使变得更容易，使便利
+
+readily		ad.容易地；乐意地，欣然地
+
+sacred		n.神圣的，宗教的，庄严的
+
+auxiliary		a.辅助的，补助的
+
+stool		n.凳子
+
+extent			n.长度，面积；程度
+
+extend		n.延长，扩展
 
