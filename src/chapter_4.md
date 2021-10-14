@@ -3,6 +3,7 @@
 - [list31](#list31)
 - [list32](#list32)
 - [list33](#list33)
+- [list34](#list34)
 
 ## list31
 
@@ -295,4 +296,106 @@ stool		n.凳子
 extent			n.长度，面积；程度
 
 extend		n.延长，扩展
+
+## list34
+
+circus		n.马戏团，杂技团
+
+recreation		n.娱乐，消遣（recreate	v.使得到消遣；再创造）
+
+overhear		vt.偶然听到
+
+memorial		a.记忆的，追悼的
+
+momentum		n.动力，冲力，势头
+
+considerable		a.相当大的，可观的；值得考虑的
+
+eminent		a.杰出的（prominent		preeminent 卓越的）
+
+confront		vt.使面临，使遭遇；面对（confrontation	n.面对，面临）
+
+coupon		n.礼券，优惠券；票证
+
+discriminate		v.区别，辨别；区别对待，歧视
+
+brow		n.眉毛（frown		n/vi.皱眉）
+
+renew		vt.重新开始，恢复，延长期限，续约
+
+naive		a.天真的，幼稚的
+
+simplicity		n.简单，简易；直率，单纯
+
+virtue		n.美德，德行；有点，长处
+
+freight		n.货物，客货
+
+rotten		a.糜烂的
+
+jug		n.大罐	vt.关押
+
+sniff		vi/n.	闻，嗅；吸气
+
+champagne		n.香槟酒
+
+sythetic		a.合成的，人造的（artificial	人造的）
+
+stitch		n.一针，针脚	v.缝合，缝（sew）
+
+resume		v.再继续，重新开始（resumption		n.恢复，再开始；presume	vt.假定	assume vt.假装，假定）
+
+riot		n.暴乱，骚乱	vi.聚众闹事
+
+essential	a.必要的，本质的
+
+distribute		vt.分配，分布
+
+purify		vt.使纯净，提纯
+
+abstract		a.抽象的	n.摘要，提要
+
+conspiracy 		n.共谋，阴谋（conspire  	v.阴谋，共谋）
+
+stalk		n.茎，梗
+
+elapse		vi.消逝，过去
+
+slit		vt.切开，截开	n.细长裂缝，狭长切口
+
+survey		n/vt.俯瞰；眺望；全面审查，调查；测量
+
+horizontal		a.地平线的
+
+obsession		n.牵挂，挂链；迷住，入迷；固执的念想（obsess 	v.迷住）
+
+razor		n.剃刀（raze vt.夷为平地）
+
+destruction	n.破坏，消灭
+
+glide		n./vi.溜，滑行（slide	n.滑动）
+
+committee		n.委员会
+
+remarkable		a.值得注意的；显著的，非凡的（remark n.评论）
+
+category		n.种类
+
+terminate		v.停止，结束
+
+awe		n.敬畏	vt.使敬畏
+
+stagnant		a.停滞的，不景气的
+
+illiterate		a.文盲的
+
+fabric		n.织物
+
+intention		n.意图，意向
+
+bacteria	细菌（bacterium 复数形式 bacterial 细菌的）
+
+aisle		n.过道，通道
+
+
 
