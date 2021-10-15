@@ -4,6 +4,7 @@
 - [list32](#list32)
 - [list33](#list33)
 - [list34](#list34)
+- [list35](#list35)
 
 ## list31
 
@@ -381,7 +382,7 @@ remarkable		a.值得注意的；显著的，非凡的（remark n.评论）
 
 category		n.种类
 
-terminate		v.停止，结束
+terminate		v.停止，结束 （eliminate 消除，消灭 illuminate 照亮，阐明 illustrate 说明 determinate	限定的，确定的）
 
 awe		n.敬畏	vt.使敬畏
 
@@ -397,5 +398,121 @@ bacteria	细菌（bacterium 复数形式 bacterial 细菌的）
 
 aisle		n.过道，通道
 
+accommodate 	v.适应
 
+## list35
+
+eternal		a.永久的，永恒的
+
+sack		n.袋，包，麻袋；解雇
+
+parachute		n.降落伞
+
+preliminary		a.预备的，初步的
+
+comprehend		vt.理解，了解
+
+fierce		a.凶猛的，残忍的；狂热的，激烈的
+
+subsidy		n.津贴
+
+offset		n.分支；补偿	vt.抵消
+
+bulletin		n.公报，公告，告示
+
+barrier		n.栏栅，屏障
+
+aviation		n.航空，飞行
+
+mysterious		a.神秘的，可疑的，难理解的
+
+pitch		n.沥青
+
+kin		n.家属；家族
+
+parallel		a.平行的，并联的；相同的	n.平行线；类似	vt.与…类似
+
+adjoin		v.毗连，紧靠
+
+cunning		a.狡猾的，狡诈的；精巧的，巧妙的	n.狡猾，狡诈
+
+substance		n.物质，实质；大意，财产
+
+strap		n.带，皮带；捆扎
+
+symphony		n.交响乐，交响曲
+
+semester		n.学期
+
+pension		n.养老金，年金
+
+midst		n.中间，当中
+
+steak		n.牛排，鱼排，肉排
+
+preceding		a.在前的，在先的（precede		在…之前，先于）
+
+census		n.人口普查，调查
+
+shallow		a.浅的；浅薄的	n.浅滩
+
+framework		n.框架
+
+concentrate		v.(on)集中，专心；浓缩	n.浓缩物
+
+couch		n.睡椅
+
+fuse		n.保险丝
+
+tub		n.木盆
+
+athlete		n.运动员 （athletic		a.运动的）
+
+assassinate		vt.暗杀
+
+spite		n.恶意，怨恨
+
+scrap		n.碎片，废料		vt.抛弃
+
+mute		a.哑的，缄默的	n.哑巴
+
+anxiety		n.挂恋，焦虑；渴望，热望
+
+critic		n.批评家，批评
+
+notify		vt.通知，告知 （notice	n.通知，公告	vi.注意到）
+
+distinct		a.清楚的，明显的；截然不同的
+
+quartz		n.石英
+
+initiative		n.第一步，创始
+
+machinery		n.机器，机械；机制
+
+secure		a.安全的，可靠的；放心的
+
+reflexion/reflection		n.映像，倒影；反省，沉思；显示，体现
+
+summary		n.摘要	a.概括的 （summarize v.总结，概述）
+
+invert	vt.倒置，颠倒
+
+squeeze		vt.压榨，紧缩		n.榨取，经济困难
+
+regime		n.政体，制度
+
+institution		n.公共机构，协会，学校
+
+comprise		vt.包含，包括
+
+debut		n.初次登台；处女座
+
+foresee		vt.预见 （predict	v.预言 prophesy	v.预言
+
+addition		n.加法，附加物
+
+endorse		vt.赞同，认可；代言
+
+successor		n.继承人，继承者（predecessor	前任）
 
