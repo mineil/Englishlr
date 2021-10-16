@@ -5,6 +5,7 @@
 - [list33](#list33)
 - [list34](#list34)
 - [list35](#list35)
+- [list36](#list36)
 
 ## list31
 
@@ -382,7 +383,7 @@ remarkable		a.值得注意的；显著的，非凡的（remark n.评论）
 
 category		n.种类
 
-terminate		v.停止，结束 （eliminate 消除，消灭 illuminate 照亮，阐明 illustrate 说明 determinate	限定的，确定的）
+terminate		v.停止，结束 （ultimate		最终的 eliminate 消除，消灭 illuminate 照亮，阐明 illustrate 说明 determinate	限定的，确定的）
 
 awe		n.敬畏	vt.使敬畏
 
@@ -402,7 +403,7 @@ accommodate 	v.适应
 
 ## list35
 
-eternal		a.永久的，永恒的
+eternal		a.永久的，永恒的（permanent）
 
 sack		n.袋，包，麻袋；解雇
 
@@ -508,11 +509,95 @@ comprise		vt.包含，包括
 
 debut		n.初次登台；处女座
 
-foresee		vt.预见 （predict	v.预言 prophesy	v.预言
+foresee		vt.预见 （predict	v.预言 prophesy	v.预言）
 
 addition		n.加法，附加物
 
 endorse		vt.赞同，认可；代言
 
 successor		n.继承人，继承者（predecessor	前任）
+
+## list36
+
+slogan		n.标语，口号
+
+compact		a.紧密的，简洁的，紧凑的	vt.使紧密；契约（impact vt.冲击	n.影响，效果）
+
+democracy		n.民主，民主制
+
+amiable		a.可爱的；和蔼的，亲切的
+
+wrinkle		n.皱纹	vt.使起皱纹
+
+spokesman		n.发言人
+
+salvation		n.救援，救助
+
+loan		n.贷款，暂借的东西
+
+exclusive		a.专有的，专用的，独占的（conclusive  令人信服的，确凿的）
+
+ballot		n.投票表决，选票
+
+crystal		n.水晶，结晶；晶体	a.水晶的，晶体的
+
+catalog		n.目录，册
+
+consumption		n.消费，消耗（consume）
+
+gallery		n.长廊，画廊，美术馆
+
+axis 	n.轴线，坐标轴
+
+tray 		n.盘，碟，托盘
+
+gamble 		n.投机，冒险，赌博	v.赌博，输光
+
+delegate		n.代表	vt.委派…为代表，授权	（delegation	n.代表团，授权）
+
+claim		v/n.要求，主张，声称；索赔
+
+patch		n.补丁，碎片，小块土地
+
+liberate		vt.解放，释放（liberty 自由）
+
+baggage		n.行李
+
+indispensable		(to,for)必不可少，必需的
+
+perceive		vt.察觉，感知；理解，领悟
+
+affluent		a.丰富的，富裕的
+
+tanker		n.油船
+
+dismay		n/vt.惊恐，惊愕；失望	
+
+oblige		vt.迫使，责成；（使）感激，施恩于（obligate	vt.附有责任和义务）
+
+bid		vt.祝愿；命令，吩咐	vi.报价，投标	n.出价；努力
+
+commission		n.委员会；委任；佣金	v.正式委托
+
+wrap		vt.裹，缠	n.披肩，围巾
+
+brisk		a.轻快的，刻薄的；生气勃勃；兴隆的
+
+odds		n.不平等的，差异；机会，可能性，概率（odd 奇怪的，奇数的）
+
+audio		a.听觉的，声音的，固有的
+
+implicit		a.不言明的，含蓄的；固有的；无疑问的，无保留的 
+
+strenuous		a.费劲的，费力的；辛苦的，艰辛的；精力充沛的
+
+drastic		a.激烈的，严厉的
+
+skyscraper		n.摩天大楼
+
+compel		vt.强迫，迫使（oblige）
+
+inquiry/enquiry		n.打听，询问；调查
+
+
 
