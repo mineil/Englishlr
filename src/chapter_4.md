@@ -6,7 +6,7 @@
 - [list34](#list34)
 - [list35](#list35)
 - [list36](#list36)
-
+- [list37](#list37)
 ## list31
 
 blouse 		n.女士衬衫
@@ -599,5 +599,112 @@ compel		vt.强迫，迫使（oblige）
 
 inquiry/enquiry		n.打听，询问；调查
 
+## list37
+
+philosophy	  n.哲学
+
+vacant		a.未占用的，空的
+
+expire		vi.期满，终止；断气，死亡
+
+hygiene		n.卫生
+
+whip		n.鞭子	vt.抽打
+
+flock 		n.一群，大量，众多
+
+shiver		n.战栗，发抖
+
+concrete		a.具体的，有形的，实质性的	n.混凝土
+
+technician 	n.技术员（technicist	技术员）
+
+flame		n.火焰，火苗
+
+distract		vt.分散，打扰
+
+subtract		vt.减去 （divide 除	multiply 乘    square 平方 cube 立方）
+
+cooperate		vi.(with)合作，协作，相配合	
+
+acknowledge		vt.承认；致谢；报偿
+
+adverse		a.不利的，有害的 （averse		a.不愿意的		divert 	转移  	advert 	vi.注意，谈到	n.广告）
+
+wreck		n.失事的飞机，残骸；失事	vt.失事，遇难；破坏
+
+barren		a.贫瘠的，荒芜的；不结果实的，不生育的；无益的；没有结果的
+
+convict		vt.证明…有罪，宣判…有罪	n.囚犯（convince  使确信，使信服）
+
+sleeve 		n.袖子
+
+juvenile		a.青少年的，少年特有的，幼稚的	n.为成年人，少年）
+
+venture		vt/n.冒险，敢于；大胆表示	（adventure		advent 到来）
+
+postage		n.邮费，邮资
+
+resolute		a.坚决的，果断的 
+
+emerge		vi.浮现，出现，显现；兴起
+
+evoke		vt.唤起，引起
+
+burglar		n.窃贼，破门盗窃者
+
+mutter		n.咕哝，抱怨
+
+hamper		vt.妨碍，阻碍，牵制
+
+evaluate		vt.评估，评价
+
+reliance		n.信赖，依靠
+
+sightseeing		n.观光，游览
+
+brief		a.简短的，简洁的；时间短的
+
+consistituent		a.形成的，组成的	n.成分，要素；选民
+
+cabinet		n.厨柜	
+
+bullet		n.子弹
+
+scarce		a.缺乏的，不足的；稀少的，罕见的（scare	vt.惊吓）
+
+presently		ad.一会的，不久的；现在，目前
+
+symposium		n.讨论会，专题报告会
+
+optional		a.可选择的，非强制的
+
+vary		vi.改变，变化
+
+choke		vi.窒息，噎住
+
+correlate		v.相关，关联
+
+client		n.顾客;委托人，当事人（consumer）
+
+nerve		n.神经；勇气
+
+commodity		n.商品，物品
+
+vegetarian		n.素食主义者
+
+complaint		n.抱怨，诉苦
+
+accumulate		vt.积累
+
+overtime		a.超时的，加班的	ad.超过，加班时间
+
+tremble		vi.发抖，颤抖；晃动
+
+treaty		n.条约
+
+negative		a.否定的，消极的；反面的（pessimistic 消极的  optimistic 乐观的  neutral 中立的 ）
 
 
+
+ 
