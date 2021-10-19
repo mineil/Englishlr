@@ -621,7 +621,7 @@ technician 	n.技术员（technicist	技术员）
 
 flame		n.火焰，火苗
 
-distract		vt.分散，打扰
+distract		vt.分散，打扰（disperse 散开,驱散）
 
 subtract		vt.减去 （divide 除	multiply 乘    square 平方 cube 立方）
 
@@ -655,7 +655,7 @@ burglar		n.窃贼，破门盗窃者
 
 mutter		n.咕哝，抱怨
 
-hamper		vt.妨碍，阻碍，牵制
+hamper		vt.妨碍，阻碍，牵制（hinder 阻碍，障碍）
 
 evaluate		vt.评估，评价
 
@@ -665,7 +665,7 @@ sightseeing		n.观光，游览
 
 brief		a.简短的，简洁的；时间短的
 
-consistituent		a.形成的，组成的	n.成分，要素；选民
+constituent		a.形成的，组成的	n.成分，要素；选民
 
 cabinet		n.厨柜	
 
@@ -705,6 +705,103 @@ treaty		n.条约
 
 negative		a.否定的，消极的；反面的（pessimistic 消极的  optimistic 乐观的  neutral 中立的 ）
 
+## list38
 
+contagious		a.传染性的，会蔓延的（contagion		传染；道德败坏	contaminate	污染）
 
- 
+snobbish		a.势力的（snob	势力小人	snobby 势力的）
+
+statistics		n.统计学
+
+alloy			n.合金
+
+ridiculous		a.荒谬的，可笑的
+
+specialty		n.特产，专业，专长
+
+acquisition		n.获得，获得物		
+
+manuscript		n.手稿
+
+salute		n.敬礼，迎接
+
+distort		vt.歪曲，扭曲
+
+toil		n.艰辛，辛苦	v.艰难地进行，费力的做
+
+principal 	a.最重要的，首要的
+
+indignation		n.愤怒，愤慨（indignant	愤怒的）
+
+distort		vt.歪曲，扭曲
+
+graphic		a.生动的，形象的；绘画的，文字的
+
+alternate		a.交替的，轮流的	vi.交替，轮流（alternative		a.两者择一的）
+
+exploit		vt.开拓，开发
+
+dispute		n.争论，辩论	vi.争论，争执
+
+tropic		n.回归线 	pl.热带（topical 热带的）
+
+turbulent		a.吵闹的；狂暴的；动乱的；无秩序的
+
+jaw		n.下颚，下巴
+
+publicity		n.宣传，宣扬；名声（publicize		v.宣扬	publicly ad.公然的）
+
+declare		v.宣布，宣称；断言；公布
+
+hostile		a.敌对的，敌方的
+
+mount		v.登上，爬上；安装；逐渐形成，增加	n.用于山名前
+
+navigation		n.航海，航空；导航（aviation  航空，飞行技术）
+
+aspire		vi.（after，to）向往，有志于
+
+descent		n.下降，降下；斜坡；血统	（ascent  上升  decent 	a.正派的，体面的）
+
+nuclear		a.核心的，中心的
+
+trolly 		n.手推车，小车；无轨电车
+
+mercy		n.仁慈，怜悯（merciful	仁慈的）
+
+monotonous		a.单调的
+
+electron		n.电子
+
+acceptance		n.接受，验收；承认，认可
+
+virus		n.病毒
+
+despair		n.绝望	vi,.对…绝望
+
+intrude		v.侵入，闯入
+
+facility		n.才能，天赋；设备，设施
+
+explicit		a.详述的
+
+mercury		n.水银，汞
+
+magnificent		a.壮丽的（magnify  放大，赞美）
+
+encyclopedia		n.百科全书
+
+superfluous 		a.过剩的（exceeded 过剩的）
+
+variation		n.变化，变动；变异
+
+anchor		n.锚，主播	v.抛锚
+
+glory		n.光荣，荣誉
+
+spicy		a.味道浓郁的，辛辣的；有刺激性的
+
+geology		n.地质学
+
+consist		v.（in）在于，存在于；由…组成（compose		组成	comprise 由…组成  constitute 由…组成	persist 	坚持   subsist	生存		consistent 一贯的，始终如一的）
+
