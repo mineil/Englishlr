@@ -7,6 +7,8 @@
 - [list35](#list35)
 - [list36](#list36)
 - [list37](#list37)
+- [list38](#list38)
+- [list39](#list39)
 ## list31
 
 blouse 		n.女士衬衫
@@ -804,4 +806,130 @@ spicy		a.味道浓郁的，辛辣的；有刺激性的
 geology		n.地质学
 
 consist		v.（in）在于，存在于；由…组成（compose		组成	comprise 由…组成  constitute 由…组成	persist 	坚持   subsist	生存		consistent 一贯的，始终如一的）
+
+## list39
+
+physicist		n.物理学家
+
+arbitrary		a.任意的，专断的
+
+erase		vt.擦掉，擦去；删除
+
+economical		a.经济的，节约的（economic 经济的 ，经济学的	financial	 财政的，金融的）
+
+squirrel		n.松鼠
+
+logical		a.逻辑的，符合逻辑的
+
+deplore		vt.悲悼，哀叹；谴责
+
+withhold		vt.拒给，不给；使停止，阻挡
+
+furnace		n.炉子
+
+appeal		vi.呼吁，要求；对…有吸引力；（to）申诉
+
+junk		n.垃圾	vt.丢弃
+
+combine		v.（with）使结合，联合；化合
+
+thermometer		n.温度计（thermo  热）
+
+guideline		n.指导方针，准则
+
+assist		vt.帮助，协助
+
+reserve		n.自然保护区，储备金；缄默，谨慎	vt.保留，储备；预定，预约（preserve vt.保护	n.保护区）
+
+rip		vt.扯破，撕坏	n.裂口
+
+interval		n.间隔，间距；休息
+
+perpetual		a.永久的，永恒的，长期的（permanent 永久的	eternal 永久的 ）
+
+electronic		a.电子的（electron 电子 electricity 电流，电）
+
+tease		v.戏弄（某人），取笑；挑逗
+
+trail 		n.踪迹，痕迹
+
+irrespective		a.（of）不顾的，不考虑的（respective	各自的，各个的	prospective	预期的，未来的  prospect 景色，景象，前景		perspective 远景，前途，透视法）
+
+banner		n.旗帜
+
+realistic		a.现实主义的
+
+stroll		n.闲逛，漫步
+
+flare		vi.闪烁，闪耀，突然烧起来；n.闪烁，闪耀
+
+beam		n.梁，桁条；束，柱；微笑
+
+gracious		a.亲切的，有礼貌的	
+
+occasional		a.偶然的，非经常的；临时的，不时的
+
+identical			a.(to,with)同一的，同样的
+
+frequency		n.频率，周率
+
+helmet		n.头盔，钢盔
+
+deliberate		a.深思熟虑的，故意的；蓄意的；存心的（liberate 解放，放出	liberty 自由 liberal	慷慨的）
+
+sentiment		n.思想感情，情绪；情操
+
+enclosure		n.围住，圈起；围场
+
+overseas		a.外围的，海外的	ad.在海外
+
+strive			vi.奋斗，努力
+
+steer		v.驾驶，掌舵；指导，引导
+
+peculiar		a.古怪的，异常的；特殊的，特有的 
+
+valid		a.有效的，合理的（invalid 无效的）
+
+represent		vt.描述，表示；代理，代表；阐明，说明
+
+restraint		n.抑制	restrain（v.抑制）
+
+description		n.描写，形容
+
+luxury		n.奢侈，华贵；奢侈品（luxe   奢侈）
+
+reject		vt.拒绝，丢弃；排斥
+
+inhale		v.吸入，吸气
+
+penetrate		v.穿过，渗入；看穿，洞察
+
+optical		a.眼的，视力的；光学的
+
+reign		vi.统治，支配；盛行	n.统治，支配；统治时期（region		n.范围，地区 sovereign 君主，国王）
+
+remote		a.远的，偏僻的；微乎其微的
+
+relief		n.减轻，解除；补助；援救
+
+sophomore		n.大学二年级学生（junior  三年级学生 senior 四年级学生 freshmen 一年级新生）
+
+loom		vi.隐现
+
+seminar		n.研究班，研究会；研讨课
+
+inhabitant		n.居民，住户
+
+vehicle		n.车辆，交通工具；媒体，媒介
+
+orchestra		n.管弦乐队
+
+eccentric		a.古怪的，反常的
+
+imperial		a.帝国的，帝王的；至尊的，最高权力的；（度量衡）英制的
+
+
+
+
 
