@@ -9,6 +9,7 @@
 - [list37](#list37)
 - [list38](#list38)
 - [list39](#list39)
+- [list40](#list40)
 ## list31
 
 blouse 		n.女士衬衫
@@ -841,9 +842,9 @@ assist		vt.帮助，协助
 
 reserve		n.自然保护区，储备金；缄默，谨慎	vt.保留，储备；预定，预约（preserve vt.保护	n.保护区）
 
-rip		vt.扯破，撕坏	n.裂口
+rip		vt.扯破，撕坏	n.裂口（snip 剪）
 
-interval		n.间隔，间距；休息
+interval		n.间隔，间距；休息（intermediate 中间的，居中的）
 
 perpetual		a.永久的，永恒的，长期的（permanent 永久的	eternal 永久的 ）
 
@@ -893,7 +894,7 @@ valid		a.有效的，合理的（invalid 无效的）
 
 represent		vt.描述，表示；代理，代表；阐明，说明
 
-restraint		n.抑制	restrain（v.抑制）
+restraint		n.抑制	（restrain vt.抑制 constrain vt.强迫，迫使，限制）
 
 description		n.描写，形容
 
@@ -929,7 +930,123 @@ eccentric		a.古怪的，反常的
 
 imperial		a.帝国的，帝王的；至尊的，最高权力的；（度量衡）英制的
 
+## list40
 
+corrupt		vt.使腐败，使破坏；损坏，破坏；腐败的，贪污的（corruption  n.腐败，贪污 vicious a.不道德的；堕落的 debase vt.贬低，降低	rot 使腐烂 	rupt 断裂  corrupt morals	败坏道德）
+
+feeble		a.虚弱的，无力的
+
+integrity		n.完整，完全；正直，诚实 （integrate 使成为整体）
+
+mainland		n.大陆，本土
+
+coward		n.懦夫，胆怯者
+
+frame		n.框架，骨架；体态（framework  架构	fame 名声）
+
+breach		n.裂缝，缺口	vt.打破，裂开；违背
+
+endow		vt.资助，捐赠；赋予
+
+react		vi.作出反应，作出回应
+
+pledge		n.誓约，保证	vt.发誓，保证
+
+sustain		vt.支撑，成熟住；维持，持续
+
+shove 	v.乱推，挤，用力推；乱塞	n.猛推
+
+sulfur		n.硫
+
+quiver		v.颤抖
+
+outline			n.轮廓，略图；大纲，梗概
+
+slip 		v.滑倒（slide		滑动，滑行  lip 嘴唇）
+
+beard		n.胡须
+
+reap		v.收割，收获 （reaper 收割者	sow 播种	obtain 获得）
+
+discern 		vt.认出，发现；辨别，识别
+
+doom 		n.命运 	vt.注定，劫数（fate	命运）
+
+twinkle		n.闪烁，闪亮 （twin 双胞胎）
+
+metric		a.米制的，公制的
+
+intermediate		a.中间的，居间的	n.媒介物（mediate vt.调解，调停；居中	medium 中等的 媒介，手段）
+
+bulb		n.灯泡
+
+private		a.私人的，私下的
+
+diligent		a.勤奋的，用功的
+
+agitate		vi.鼓动	vt.使激动，使不安；搅动，搅拌
+
+layoff		n.解雇，失业工人（unemployment 失业）
+
+massive		a.大而重的，厚实的，粗大的；大规模的
+
+vapour		n.蒸汽
+
+constrain		vt.束缚，限制；强迫，强制（constraint n.强制，约束）
+
+ashore		ad.在岸上，上岸
+
+cord		n.绳，索
+
+impair		vt.损伤，损害；削弱（injure vt.伤害 undermine vt.削弱 improve 	改进，改善）
+
+tragic		a.悲剧的，悲惨的（tragedy 悲剧 	catastrophic 	a.悲惨的，灾难的	disastrous a.悲惨的）
+
+fossil		n.化石
+
+removal		n.移动，迁居；除去
+
+assert		vt.断言，宣称
+
+daunt		vt.使气馁，使畏缩
+
+basement		n.建筑的地步，地下室
+
+rival			n.竞争对手，对手	vt.竞争，对抗 	a.竞争的
+
+sympathy		n.同情（sympathize vi.同情)
+
+signify 		vt.表示，意味	vi.要紧，有重要性(significant 重要的)
+
+lottery			n.彩票，抽彩给奖法
+
+elect		vt.选举，推选；选择
+
+lapse			n.失误，疏忽；行为失检
+
+conviction		n.深信，确信（convince 使确信，说服	confidence 信心）
+
+horizon		n.地平线
+
+intersection		n.十字路口，交叉点
+
+destiny		n.命运；天数
+
+vegetation		n.植物，草木
+
+carriage		n.马车，客车箱
+
+prominent		a.凸起的，突出的；突出的，杰出的
+
+editorial		n.杜论，社评
+
+ingredient		n.组成成分，成分，原料
+
+crow		n.乌鸦，鸡鸣，鸣叫	vi.鸡鸣
+
+moderate		a.中等的（modern		a.现代的，近代的		medium 中等的，媒介；中等的，适中的）
+
+complement   	vt.补充，补足	n.补充（supplement v/n.补充）
 
 
 
