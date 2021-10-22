@@ -1030,7 +1030,7 @@ horizon		n.地平线
 
 intersection		n.十字路口，交叉点
 
-destiny		n.命运；天数
+destiny		n.命运；天数（destination	目的地，终点）
 
 vegetation		n.植物，草木
 
