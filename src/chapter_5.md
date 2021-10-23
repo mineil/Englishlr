@@ -1,6 +1,7 @@
 # list41-50
 
 - [list41](#list41)
+- [list42](#list42)
 
 ## list 41
 
@@ -44,7 +45,7 @@ prose 	n.散文
 
 absolute		a.绝对的，完全的（absolution 宽恕，赦罪）
 
-exceedingly		ad.非常地，非常
+exceedingly		ad.非常地，非常（exceeding 非常好的 exceeded 非常的，过度的）
 
 delicate		a.纤细的，脆弱的；精致的；微妙的
 
@@ -52,7 +53,7 @@ analog		n.类似物，模拟
 
 circuit		n.周线，巡回；环形；电路，线路
 
-precede		v.领先于，在…之前；优先，先于（advanced 领先的）
+precede		v.领先于，在…之前；优先，先于（advanced 领先的 concede 承认，容忍）
 
 acute		敏锐的，尖锐的，急性的
 
@@ -84,7 +85,7 @@ heal		v.（使）治愈，愈合
 
 inevitable		a.不可避免的，必然发生的（evitable	可避免的）
 
-monument		n.纪念碑，纪念馆（momentum 动力，动量，冲力）
+monument		n.纪念碑，纪念馆（momentum 动力，动量，冲力 museum 博物馆）
 
 erect		vt.树立，建立	a.直立的，垂直的
 
@@ -111,4 +112,120 @@ lounge		n.休息厅，等候室；起居室，客厅	vi.斜倚，躺卧
 thereby 		ad.因此，从而
 
 tempo		n.节奏，速度（rhythm 节奏）
+
+## list42
+
+carpenter		n.木工，木匠
+
+overtake		v.追上，赶超
+
+remainder		n.剩余物，其余的人
+
+objective		n.目标，目的	a.客观的，真实的（subjective 主观的 object 物体，对象，目标）
+
+pasture		n.牧草地，牧场（meadow 草地，牧场 plat 高原）
+
+despite		prep.不管，尽管（spite	n.恶意，怨恨 	vt.刁难 despise vt.轻视，蔑视）
+
+gulf		n.海湾，深渊
+
+shepherd		n.牧民，牧羊人
+
+interior		a.内部的，里面的	n.内部，里面
+
+chorus		n.合唱队，合唱
+
+oppress		vt.压迫，压制	（suppress 	vt.压制，镇压	compress 压紧，压缩）
+
+grin		n.露齿而笑，咧嘴笑
+
+professional		a.职业的，专业的，专门的（profess 声称，公开表明，profession 职业，自由职业）
+
+resistant		a.(to)抵抗力的，有抵抗力的（resistance 	n.抵抗；电阻）
+
+foster		vt.培养，培育；鼓励，促进；领养	a.收养的
+
+leap		vi.跳跃	n.跳跃，飞跃
+
+embark		v.(使)上船
+
+neutral		a.中立的，中性的，中和的	（neutron 中子）
+
+elastic		a.弹性的	n.松紧带，橡皮圈
+
+circulate		v.(使)循环，流通；传播	（circular 圆形的，圆环的；通知，通告 circulation 流通，循环  circulating 循环的）
+
+chop		vt.劈，砍，斩	n.排骨
+
+primary		a.最初的，初级的；首要的（primitive 原始的,早期的 prim 基本的，早期的,最好的 primacy n.首位）
+
+stir		v.搅动，搅拌；煽动（stirring 激动人心的）
+
+appraisal		n.估量，估计；评价（appraise vt.评价）
+
+layout		n.布局，陈设
+
+entertain		v.招待，款待（entertainment 款待，娱乐）
+
+moan		n.呻吟声，呜咽声；vi.呻吟，抱怨，发牢骚
+
+locate		vt.查找…的位置，坐落于，位于（located	a.处于	location 地点 locality 地点）
+
+explosive		a.爆炸性的，爆发性的；使人冲动的	n.爆炸物，炸药 （exposure n.暴露，显露 exploder 爆炸物 exploded 爆破了的）
+
+cricket		n.板球；蟋蟀（crick vt.引起痉挛	n.肌肉抽筋）
+
+voltage		n.电压
+
+ghost		n.鬼魂
+
+tug		v.用力拖	n.猛拉
+
+peak		n.顶点，巅峰；峰	a.最高峰
+
+exemplify		vt.举例说明；是…的榜样
+
+finance		n.财政，金融	vr.为…提供资金
+
+conflict		n.战斗，斗争；矛盾，冲突	vi.抵触，冲突
+
+evade		vt.逃避，躲避 ；回避（inevitable 不可避免的）
+
+assemble		v.集合，集会；装备
+
+conquer		vt.征服，战胜；占领；克服，破除
+
+cradle		n.摇篮，发源地（candle 蜡烛）
+
+terrify		vt.使害怕，使惊恐
+
+split		v.(使)裂开，劈开	n.分化
+
+pearl		n.珍珠	（diamond 钻石 jewel 宝石，珠宝）
+
+reel			n.卷筒，线轴	vt.卷，绕
+
+launch		vt.发射	n.发射，下水
+
+flaw		n.裂缝，缺陷；缺点，弱点
+
+sacrifice		n.牺牲，献身 （sacrificial 牺牲的）
+
+threaten		vt.恐吓，威胁
+
+gratitude		n.感激，感谢
+
+expense		n.花费，消费；消耗
+
+fund		n.专款，基金 	vt.拨款，资助
+
+tactics		n.策略，战术（strategy 战略，策略）
+
+paddle		n.桨	vt.用桨划
+
+hospitality		n.好客，殷勤，款待
+
+monster		n.怪物，妖怪
+
+
 
