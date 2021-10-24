@@ -2,7 +2,7 @@
 
 - [list41](#list41)
 - [list42](#list42)
-
+- [list43](#list43)
 ## list 41
 
 slot 		n.狭缝，狭槽；位置，空位	v.把…纳入其中（slip 滑倒，滑动 lop 砍伐，砍）
@@ -227,5 +227,124 @@ hospitality		n.好客，殷勤，款待
 
 monster		n.怪物，妖怪
 
+## list43
 
+anticipate		vt.预期，期望；预料（anticipation n.预期，预料）
 
+unanimous		a.全体一致的，一致同意的（agreeing 一致同意的	 unanimity		n.全体一致）
+
+morality		n.道德，美德（virtue 美德，德行）
+
+scratch		v.抓，搔	n.抓，抓痕；起跑线（head-scratch	a.搔头的，令人不解的）
+
+traitor		n.叛徒，卖国贼 （patriot 爱国者 	trait 特点，品质）
+
+cafeteria		n.自助餐厅
+
+rely		vi.（on)依靠，依赖
+
+statesman		n.政治家
+
+fluent		a.流利的，流畅的（influent 	a.流入的 	n.支流  influence v/n.影响）
+
+scarcely		ad.几乎不，简直没有；刚刚 （scarce 缺乏的，罕见的）
+
+spiral		a.螺旋形的，盘旋的	vi.盘旋上升	n.螺旋（spire	v.螺旋上升 	n.螺旋	spin	v/n.旋转，纺纱）
+
+flee		vi.逃走，逃避；消失
+
+prejudice		n.偏见，成见；损伤，侵害	v.抱有偏见；损害 （prejudiced 	a.怀有偏见的）
+
+legend		n.传说，传奇
+
+prey		n.猎物，捕获物；受害者	vi.猎取食物（pray		祈祷，祷告）
+
+receipt		n.收据，收条；收到，接到
+
+certify		vt.证明，保证；发证书给	（certified 被鉴定的	certificate 证书，执照 	certification 证明，证书）
+
+heritage		n.遗产，继承物（legacy		n.遗产；弥留之物	inheritance	n.遗产，继承物）
+
+inherit		vt.继承	vi.成为继承人 	（inheritor 继承人	heir 继承人   successor 接替的事物，继承人）
+
+avenue		n.林荫大道，大街；途径，手段
+
+rejoice		vi.欢庆，高兴	(gladden v.使欢喜	sadden 	使悲伤)
+
+anecdote		n.短故事；秩事，奇闻		(apologue	n.寓言)
+
+apology		n.道歉	（apologize	vt/vi.道歉）
+
+ambassador		n.大使
+
+capable		a.有能力的；能…的（capability		n.本领，能力	incapable 无能力的  	be capable of 有能力）
+
+radius		n.半径（diameter 直径）
+
+hail		vt.向…呼	vi.下雹;来自	n.冰雹
+
+marble		n.大理石，云石（white marble 汉白玉	carnelian	玛瑙	emerald	翡翠）	
+
+quality		v.具有资格，证明合格；限制，修饰；符合，称得上（qualified	a.合格的，有资格的	qualification 资格；合格证书）
+
+patent		a.专利的，特许的	n.专利，专利品，专利权	vt.批准专利吗；获得专利（potent	a.有力的	potential 		a.潜在的，有可能的	n.潜力）
+
+leading		a.处于领导地位的，前列的；首位的，领衔的；最主要的（misleading 令人误解的）
+
+ridge		n.岭；屋脊；山脉
+
+maximum		n.最大值，极限		a.最大的，最高的
+
+shield		n.防护物，护照；	盾	vt.保护，防护（shielder 防护物，遮蔽，避开	shelter 避难所）
+
+spear		n.矛，枪
+
+singular		a.非凡的；单数的
+
+county		n.郡，县
+
+predecessor		n.前辈，前任
+
+susceptible		a.易受感染的，易过敏的；易受影响的；（of）能经受的，有某种能力（suscept	n.病主,病原体	immune 	a.免疫的，不受影响的）
+
+puppet		n.木偶，傀儡
+
+release		vt.释放；解放；发表，发行	n.发表，发布（liberate 释放）
+
+colleague		n.同事，同僚（league 联盟）
+
+arrest		n/vt.逮捕，拘留
+
+vicious		a.邪恶的，凶残的 （savage		a.野蛮的，凶猛的，残忍的 	malicious 怀有恶意的，恶毒的）
+
+magnet		n.磁铁（magnetism		磁力，磁学	magnetic	磁性的，有吸引力的）
+
+resolution		n.决定，决心；决议（resolute	坚决的，果断的）
+
+resultant		a.作为结果发生的，合成的
+
+impression		n.印象，感想；压痕 （impress 给…留下印象）
+
+fluctuate		vi.波动，起伏
+
+dependent		a.依靠的，依赖的；从属的
+
+elementary		a.初等的，基本的
+
+fashionable		a.流行的，时髦的
+
+applause		n.鼓掌，欢呼（applaud	vi.鼓掌,喝彩）
+
+gender		n.性别，性；性
+
+tumble		v.使摔倒；打滚，翻腾	n.摔跤，跌倒
+
+admission		n.允许进入；接纳；收容；入场费，入场券；承认；录取（admit 允许进入 admissive 容许的	inadmissible	a.不许可的）
+
+saturate		vt.使浸透，渗透；使充满（saturated 饱和的	saturation	饱和；浸透	drench	vt.使浸透	sock	使浸透，吸收，吸入）
+
+chemistry		n.化学（chemist	化学家）
+
+apparent 		a.明显的，显而易见的（noticeable 明显的，显而易见的	distinct 明显的，截然不同的）
+
+vicinity		n.临近；附近
