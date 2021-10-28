@@ -3,6 +3,7 @@
 - [list41](#list41)
 - [list42](#list42)
 - [list43](#list43)
+- [list46](#list46)
 ## list 41
 
 slot 		n.狭缝，狭槽；位置，空位	v.把…纳入其中（slip 滑倒，滑动 lop 砍伐，砍）
@@ -348,3 +349,104 @@ chemistry		n.化学（chemist	化学家）
 apparent 		a.明显的，显而易见的（noticeable 明显的，显而易见的	distinct 明显的，截然不同的）
 
 vicinity		n.临近；附近
+
+## list46
+
+affective 		a.情感的，表达情感的	（affection		喜爱，感情）
+
+amplify		vt.放大，增强
+
+renaissance		n.复兴，再生，新生；文艺复兴（revival		n.苏醒，复兴 revive vi.苏醒，复兴，复活	renewal	n.复兴；恢复	collapse		n.倒塌，瓦解	decline		n.衰败，落败）
+
+capsule		n.胶囊，太空舱
+
+confess		v.供认，承认；坦白，忏悔（profess 声明，公开表示）
+
+lash		v.将…系牢；鞭打，抽打；抨击	n.眼睫毛；鞭打；鞭子（whip  v.鞭打	n.鞭子）
+
+prudent		a.谨慎的，深谋远虑的
+
+plight		n.困境，苦境（slight 轻微的，少量的	vt.怠慢	n.怠慢）
+
+muscular		a.肌肉的；肌肉发达的
+
+vocabulary		n.词汇，词汇量；词汇表
+
+cite			vt引用，引证（quote	vt.引述，引证）
+
+portray		vt.描写，描绘；刻画；扮演（depict		v.描述，描写	describe		v.描写，形容	represent	v.描绘，扮演）
+
+adolescent		n.青少年	a.青春期的，少年的	
+
+mug		n.大杯
+
+controversy		n.争论，辩论
+
+barn		n.谷仓，畜棚
+
+sociology		n.社会学
+
+horn		n.角；号
+
+bureaucracy		n.官僚，官僚主义 （bureau 局，处；办公桌		bureaucratic	a.官僚主义的）
+
+conscientious		a.认真的，勤勤恳恳的（conscience 良心）
+
+greedy		a.贪婪的；贪吃的；渴望的
+
+hysterical		a.情绪异常激动的
+
+transit		n.运输，运载	vt.通过，经过
+
+sensation		n.感觉，知觉；激动，轰动
+
+therapy		n.治疗，理疗
+
+passive 		a.被动的，消极的
+
+rational		a.理性的，合理的
+
+responsibility		n.责任，责任心；职责，任务
+
+gossip		n.流言蜚语	vi.传播流言蜚语
+
+glacier		n.冰河，冰川
+
+routine		n.例行公事，常规	a.常规的，例行的（route 路线）
+
+saddle			n.马鞍	（paddle 桨）
+
+correspondence		n.通信，信件；符合，一致；相当，相似（correspond 	v.相符合，相一致；通信 correspondent 通信员，记者）
+
+submarine		n.潜水艇	a.水底的，海底的（submerge 淹没，潜入水中 marine 海的，海军的	submerged 在水中的，淹没的）
+
+finite		a.有限的 （infinite 无限的，无穷的；无限；无穷大 	confined		a.有限的	confine vt.限制，禁闭	n.边界		boundless 无限的）
+
+candidate		n.候选人，候补者；报考者
+
+resemblance		n.相似，相似处（resemble	vt.像…，类似于 	similarity 相似处	dissimilarity 相异，相异点）
+
+dimension		n.尺寸，尺度 ；维数
+
+resolve		v.决心，决定；分解，溶解；决议（solute	n.溶质	absolute 完全的	resolute  果断的，坚决的	solve v.解决，溶解	solution n.溶解，解决，溶液  absolve 宣告无罪，赦免）
+
+album		 n.粘贴薄，相册
+
+drum		n.鼓；圆筒
+
+clay		n.黏土，泥土
+
+regulate		vt.管制，控制；调解，校准（regulation	规则	regular a.整齐的，定期的，有规律的 	adv.经常的）
+
+likely 	a.很可能的，有希望的
+
+conceive		v.设想，想象，构思，认为；怀胎，受孕（inconceivable 	a.难以想象的）
+
+discreet		a.谨慎的，慎重的（secret 秘密 	discrete 分离的，不相连的	prudent 谨慎的）
+
+trademark		n.商标
+
+gross		a.总的，毛重的	n.总额
+
+
+
