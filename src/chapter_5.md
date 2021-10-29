@@ -4,6 +4,7 @@
 - [list42](#list42)
 - [list43](#list43)
 - [list46](#list46)
+- [list47](#list47)
 ## list 41
 
 slot 		n.狭缝，狭槽；位置，空位	v.把…纳入其中（slip 滑倒，滑动 lop 砍伐，砍）
@@ -448,5 +449,123 @@ trademark		n.商标
 
 gross		a.总的，毛重的	n.总额
 
+## list47
 
+apparatus		n.器械，设备，仪器
+
+persuasion		n.说服，说服力
+
+aboriginal 		a.土著的
+
+physician			n.内科医生	(physicist	物理学家)
+
+scenario		n.情景，剧本
+
+automatic		n.自动机械
+
+confusion		n.混乱，混淆
+
+pigeon		n.鸽子
+
+toss		v.摇摆，颠簸
+
+criticism		n.批评，评论（critic 批评家	criticize 批评)
+
+aerial		a.空中的，航海的	n.天线（antenna	天线）
+
+reciprocal		a.相互的，往复的；互利的（reciprocity		互惠	mutual 相互的，彼此的）
+
+poultry		n.家禽
+
+reputation		n.名声，声望（repute 名誉，声望 vt.认为；把…称为 reputed	名誉好的）
+
+fracture		n.裂缝，裂痕；骨折	（crack v.破裂	n.裂缝	split v.使分裂	n.裂口）
+
+starve		v.饿死，挨饿（starvation		n.饥饿）
+
+accessory		n.附件，配件；	a.附属的（access 通道，入口；存取文件	accessor	存储器）
+
+witness		n.目击者；证据	vt.目击，目睹；作证（evidence 证据  testimony 证据，证词）
+
+stagger		vt.使吃惊；使错开；蹒跚	n.蹒跚
+
+optimum		a.最好的，最有利的
+
+tender		a.嫩的，脆弱的，敏感的
+
+scenario		n.情景；剧本（scene 情景，景象）
+
+furious		a.狂怒的，狂暴的（meek 温顺的	irate 发怒的	fierce	强烈的）
+
+botany		n.植物学
+
+puzzle 		n.难题，迷惑	vt.使困惑，使为难
+
+span		n.跨度，跨距
+
+territory		n.领土，版图；领域，范围
+
+economic		a.经济的，经济学的（economics 经济学）
+
+ignite 		v.点火，引燃
+
+civilise		vt.使文明
+
+treason		n.谋反；叛国（traitor 叛国贼 patriot 爱国者）
+
+pursuit		n.追赶，追求；职业
+
+column		n.圆柱，专栏
+
+resent		vt.对…不满，怨恨
+
+diabetes		n.糖尿病，多尿症
+
+cyberspace		n.计算机世界，网络空间
+
+revolve		v.使旋转
+
+enroll		v.招收，登记
+
+feudal		a.封建的
+
+minimize		vt.使减到最少
+
+shorthand	n.速记
+
+reluctant		a.不愿的，勉强的
+
+bride		n.新娘（bridegroom 新郎）
+
+plunge		vt.投入，陷入，插进；猛冲	n.尝试
+
+velvet		n.丝绒，天鹅绒	a.丝绒制的，柔软的
+
+hollow			a.空的，中空的；空洞的，空虚的
+
+retort		vt.反驳，回嘴
+
+striking		a.显著的，惊人的
+
+exclaim		v.呼喊，惊叫
+
+expel		vt.驱逐，排除
+
+duplicate		n.复制品，副本	a.复制的，二重的
+
+diagram		n.图表，图解
+
+chronic		a.漫长的，长期的；积习难改的，严重的
+
+vast		a.巨大的；辽阔的，大量的
+
+nowhere		ad.任何地方都不，没有地方
+
+tolerate		vt.容忍，默许
+
+religious		a.宗教的，虔诚的
+
+abolish		vt.废除，取消（annual 	vt.废除，取消）
+
+lens		n.镜头，透镜
 
