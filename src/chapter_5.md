@@ -5,6 +5,7 @@
 - [list43](#list43)
 - [list46](#list46)
 - [list47](#list47)
+- [list49](#list49)
 ## list 41
 
 slot 		n.狭缝，狭槽；位置，空位	v.把…纳入其中（slip 滑倒，滑动 lop 砍伐，砍）
@@ -569,3 +570,104 @@ abolish		vt.废除，取消（annual 	vt.废除，取消）
 
 lens		n.镜头，透镜
 
+## list49
+
+fragrant		a.香的（fragrance 	香味	scent 气味，香味 perfume 香味，芳香，香水	fragment 	n.碎片	vt.使成碎片）
+
+excerpt		n.摘录，选录，节选	（except	vt.把…排除；免除	prep 除…外）
+
+missile		n.导弹，发射物（transmit	发射）
+
+franchise		n.特许权，选举权；经销权
+
+cemetery		n.坟墓，公墓（grave 坟墓）
+
+jealous		a.嫉妒的；珍惜的，爱惜的（cherish 珍惜，真爱）
+
+municipal		a.市的，市政的，市立的
+
+clergy		n.牧师
+
+destructive		a.破坏性的（deteriorate  vt.恶化，变坏）
+
+sole		a.单独的，唯一的	n.鞋底，脚底
+
+gut		n.胆量，勇气；内脏	vt.毁坏的内部；取出…的内脏
+
+paralyze		vt.使瘫痪，使丧失作用
+
+yield		vt.生产，生长，提供	vi.屈服，服从	n.产量，收获
+
+blossom		n.花	vi.开花；成长，发展
+
+predominant		a.占优势的；主要的，突出的（prominent 突出的，杰出的，著名的）
+
+glimpse		n./vt.一瞥，瞥见
+
+whirl		v.旋转，打转	n.旋转，急转（wheel 轮子	vt.转动，旋转）
+
+deliver		v.交付，递送，释放；发表，表达
+
+escalate		v.逐步增长或发展，更紧张
+
+thereof		ad.由此，因此
+
+drip		vi.滴水，漏水	n.滴，水滴，点滴
+
+canvas		n.帆布，油画
+
+hatch		vi.孵，孵出
+
+statue		n.塑像，雕像（ sculpture 雕塑）
+
+practitioner		n.开业者，实习者
+
+tariff		n.关税，税率	（duty	n.税 tax	税收）
+
+section		n.章节，部分；地区；截面
+
+superficial		a.表面的，肤浅的，浅薄的（shallow 浅的）
+
+ceremony		n.典礼，仪式；礼节，礼仪	
+
+ankle		n.踝
+
+recruit		v.招募，招收；雇佣	n.新兵，新成员
+
+leather	n.皮革，皮革制品（fur	皮毛）
+
+priority		n.先，前；优先，优先权
+
+scare	n.惊恐	v.（使）惊吓	（scarce 稀有的	sacred 神圣的）
+
+casual		a.偶然的，碰巧的；临时的，非正式的
+
+inject		vt.注射，进入(injection 注射，注入)
+
+descend		v.下来，下降；降低身份
+
+ministry 		n.部门
+
+tackle		n.用具，器械，滑车
+
+magnetic		a.磁的，有磁性的
+
+masculine		a.男性的，男子的；男子气概的，男子气的
+
+jargon		n.行话，术语（slang	俚语	dialect 方言	term 术语	idiom 成语）
+
+civilization		n.文明，文化
+
+military		a.军事的，军用的，军队的 	n.军队，军人
+
+circumstance		n.情况，形式，环境（circus 马戏团）
+
+awful		a.极度的，极坏的，糟糕的
+
+glorious		a.壮丽的，辉煌的
+
+articlulate		a.善于表达的	vt.明说
+
+subtle		a.精巧的，巧妙的；细微的，微妙的（delicate 微妙的）
+
+grain		n.谷物，颗粒
