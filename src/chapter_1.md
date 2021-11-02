@@ -12,11 +12,7 @@
 
 ## list1
 
-discipline 		 n.纪律、规定；学科；训练；自制力
-
 allegiance		  n.拥护，忠诚 （loyalty 忠诚 royalty 王权，皇室）
-
-hostage		 n.人质
 
 diploma 		n.文凭，学位证书
 
@@ -28,6 +24,14 @@ interpret 		vt.解释说明;口译
 
 denote 		vt.表示，意味着
 
+substantial		a.实质的，真实的
+
+constract		vt.使与…对比；和…形成对照	n.对照，对比
+
+freelance 	a.自由职业的
+
+applicable		a.能应用的，能适用的
+
 concede 		vt.承认，承认...为真；退让，退步（concession		n迁就，让步）
 
 dictate 		v.口述，听写；命令；支配
@@ -38,15 +42,69 @@ propaganda		n.宣传
 
 prescribe		vt.指示，规定；开处方，开药
 
+startle		vt.惊吓；使吃惊
+
+lame		a.有缺陷的；站不住脚的
+
+torrent		n.激流，山洪
+
+crisp		a.脆的，易碎的
+
+pinch		n.一撮，微量；紧缺，短缺
+
+cape		n.披风
+
+dealer		n.商人，贩子
+
+kidnap		n.绑架
+
 ##  list2
+
+quantify		vt.确定数量，量化
+
+faulty		a.有缺点的，有错误的（fault	故障，毛病，错误）
 
 eliminate			vt.消除，排除
 
 manipulate 		vt.操作，控制；操纵
 
-rigorous		a.严密的；严格的 (rigour	n.严格)
+commemorate		vt.纪念，庆祝
+
+reproach		n/vt.指责，责备
+
+dilute 		vt.冲淡，稀释	a.冲淡的，稀释的
+
+sane		a.理智的，明智的；心智健全的
+
+lease		n.租期	vt.出租
+
+tentative		a.尝试的，试验性的
+
+seam		n.缝，接缝
+
+descendant		n.子孙，后代
+
+linguistic		a.语言的，语言学的
+
+rigorous		a.严密的；严格的 (rigour	n.严格	rigid	严格的)
+
+brutal		a.残忍的
+
+dynamic		a.动力的，电动的；有生气的	n.动态（dynamics	动力学）
 
 solidarity		n.团结，一致
+
+slaughter		vt.屠杀，杀戮
+
+pit		n.坑，陷阱
+
+occasion		n.场合，时刻；时机，机会（occasional 偶然的）
+
+dental		a.牙齿的，牙科的
+
+value		n.阀
+
+abuse		vt/n.滥用；虐待；谩骂
 
 decay		vt./n.腐朽，腐烂；衰减，衰退
 
@@ -57,6 +115,14 @@ disguise 		n./vt.假装，伪装
 huddle 		v.聚集在一起，挤做一团
 
 converge 		vi.会合；聚集
+
+cellar		n.地窖，地下室
+
+namely		ad.即，也就是
+
+instrumental		a.起作用的，有帮助的（instrument 器具，仪器；乐器）
+
+manual		a.手的，手工的
 
 ## list3
 
