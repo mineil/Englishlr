@@ -188,6 +188,10 @@ blur		n.模糊不清的事物，污点	v.使模糊
 
 ## list4
 
+crust		n.外皮，壳；地壳
+
+textile		n.纺织品，纺织的
+
 lest 		conj.唯恐，免得
 
 grieve 		vt.使悲伤，使伤心
@@ -196,13 +200,39 @@ contradict		v.反驳；同...矛盾，同...抵触
 
 intelligible		a.可理解的，易领悟的；清楚的
 
-portrait		n.肖像，画像
+infectious		a.传染的，有传染性的；有感染力的
+
+propel		vt.推动，激励，驱使
+
+appal			vt.使惊骇
+
+dormitory			n.宿舍（dormant 睡眠的，静止的）
+
+drain		n.排水沟，阴沟
+
+portrait		n.肖像，画像（profile 侧面，轮廓，外形）
 
 attribute 		n.属性，品质，特征		vt.把...归于；认为...是...所为
+
+stationery		n.文具
+
+spade		n.铁锹
+
+occurrence			n.发生，出现；事件，事故
+
+compound		n.混合物，化合物	a.混合的，化合的；符合的 
+
+gown		n.女士礼服；罩衣
+
+vague		a.不明确的，含糊的，暧昧的
+
+locomotive		a.运动的，运载的	n.机车，火车头
 
 underestimate 		n.低估；轻视    vt.低估
 
 tremendous		a.巨大的，极大的
+
+affirm		vt.断言，肯定（assert	断言，声称	allege 宣言，断言）
 
 deprive 		vt.夺去，使丧失；使不能享有
 
@@ -210,11 +240,21 @@ simultaneous 		a.同时的，同时存在的
 
 specimen		n.标本，样本
 
+collision		n.碰撞，冲突
+
+constitute		vt.组成，构成
+
+congress		n.大会；国会
+
+foremost		a.最重要的，最好的
+
 headquarters		n.司令部；总部
 
 alert	 	a.警惕的；机灵的	 n.警报，警戒
 
 utter 		vt.说，发出		a.彻底的，完全的
+
+chill		n.寒冷，寒气，寒战
 
 
 
