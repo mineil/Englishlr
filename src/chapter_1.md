@@ -132,11 +132,9 @@ prosperity 		n.繁荣，兴旺
 
 siege		n.包围，围攻
 
-ample 		a.充分的，富裕的；宽敞的（amplifier 放大器）
+radical		a.根本的，重要的，激进的
 
-psychology 		n.心理学；心理
-
-inventory 		n.详细目录；存货清单
+preside		vi主持
 
 antenna 		n.天线
 
@@ -156,6 +154,22 @@ excursion 		n.短途旅行，游览
 
 integrate 		vt.使成为一体，使合并
 
+boundary 		n.分界线，边界
+
+peep		vi.偷看，窥视
+
+isle		n.小岛
+
+bold		a.大胆的，勇敢的；黑体的
+
+stoop		vi./n	弯腰，俯身
+
+cater		vi.迎合
+
+drawer		n.抽屉
+
+closet		a.私下的，隐蔽的
+
 intrigue		vi.密谋，施诡计  vt.引起极大兴趣  n.阴谋
 
 inertia 		n.不活动，惰性；惯性
@@ -167,6 +181,10 @@ plausible 		a.合乎情理的，似乎可信的
 nucleus  	n.核，原子核；核心
 
 ambiguous 		a.模棱两可的
+
+vice		n.邪恶，坏事	a.副的
+
+blur		n.模糊不清的事物，污点	v.使模糊
 
 ## list4
 
