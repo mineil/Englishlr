@@ -26,7 +26,7 @@ denote 		vt.表示，意味着
 
 substantial		a.实质的，真实的
 
-constract		vt.使与…对比；和…形成对照	n.对照，对比
+contrast		vt.使与…对比；和…形成对照	n.对照，对比
 
 freelance 	a.自由职业的
 
@@ -348,6 +348,10 @@ subscribe			vt.订购，订阅；预定；赞成
 
 discourse		n.演讲，谈话，论文	vi.演讲，谈话
 
+contrary		a.相反的，矛盾的，对抗的	n.矛盾（contradict		vt.反驳，与…发生矛盾     contrast 		vt.使与…对比；和…形成对照	contract 	感染，订约 	合同）
+
+numerous		a.大量的（numerable	可数的	countable 可数的	numerical	数字的，用数字表示的）
+
 ## list7
 
 permeate			vi.扩散，弥漫；渗透，渗入
@@ -398,7 +402,7 @@ engine		n.发动机，引擎；火车头
 
 clutch		vt.抓住，掌握	n.离合器
 
-temperament		n.性情；气质 	(dispassion n.脾气，性格)
+temperament		n.性情；气质 	(disposition n.脾气，性格)
 
 pastime		n.消遣，娱乐
 
@@ -418,7 +422,7 @@ psychiatry 		n.精神病学；精神病治疗法
 
 compulsory		a.强制的，义务的；必修的
 
-casuality		n.伤亡人员；受害人 	(casual 	偶然的)
+casualty	n.伤亡人员；受害人 	(casual 	偶然的)
 
 blunder			vi.踉跄地走；乱闯；（因粗心）犯错	n.错误
 
@@ -474,7 +478,7 @@ stern		a.严厉的，苛刻的；坚决的，坚定的
 
 demonstrate		vt.论证，证实；展示，说明
 
-quantitative		a.数量的，定量的
+quantitative		a.数量的，定量的（quantitative		a.性质上的）
 
 cassette		n.盒子
 
@@ -486,7 +490,7 @@ pilgrim		n.朝圣者，香客
 
 humid		a.湿的，湿气重的
 
-manufacture		vt.制造，加工	n.制造，制造业；产品
+manufacture		vt.制造，加工	n.制造，制造业；产品（manipulate	操作，控制）
 
 detach		vt.分开，拆开
 

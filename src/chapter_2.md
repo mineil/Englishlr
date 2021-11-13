@@ -220,6 +220,8 @@ ellipse		n.（天体的）食
 
 render		vt.报答；归还；给予；呈递，提供；开出；演出，扮演；翻译；使，致使
 
+analogy		n.比拟，类比（analysis		n.分析，分解 	analyze 	vt.对…进行分析，分解	analog	n.类似物，模拟	analogue		n.类似物，类似情况；对等的人）
+
 ## list16
 
 weary		a.疲倦的，令人厌烦的	vt.使疲倦，使厌烦
@@ -384,7 +386,7 @@ puff 		n.一口，一阵（风） vi.喘气，喷气
 
 respective		a.各自的，各个的
 
-transient		a.短暂的；过往的
+transient		a.短暂的；过往的（transfer 转移，转让；过户 transport 运输，流放 transduce 转换（信号）transform 改变）
 
 throne		n.王位，君权
 
