@@ -446,7 +446,7 @@ humiliate		vt.使蒙羞，使丢脸
 
 appliance		n.用具，器具
 
-clause		n.条款；从句，分句
+clause		n.条款；从句，分句（contact 条约，契约	compact	契约） 
 
 conspicuous		a.显眼的，明显的	（striking		a.显著的，突出的）
 
