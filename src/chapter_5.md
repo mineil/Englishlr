@@ -671,3 +671,4 @@ articlulate		a.善于表达的	vt.明说
 subtle		a.精巧的，巧妙的；细微的，微妙的（delicate 微妙的）
 
 grain		n.谷物，颗粒
+
